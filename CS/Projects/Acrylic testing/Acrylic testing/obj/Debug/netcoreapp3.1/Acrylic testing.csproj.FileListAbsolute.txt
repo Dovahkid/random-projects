@@ -1,0 +1,23 @@
+F:\Projects\CS\Projects\Acrylic testing\Acrylic testing\obj\Debug\netcoreapp3.1\Acrylic testing.csprojAssemblyReference.cache
+F:\Projects\CS\Projects\Acrylic testing\Acrylic testing\obj\Debug\netcoreapp3.1\App.g.cs
+F:\Projects\CS\Projects\Acrylic testing\Acrylic testing\obj\Debug\netcoreapp3.1\Acrylic testing_MarkupCompile.cache
+F:\Projects\CS\Projects\Acrylic testing\Acrylic testing\bin\Debug\netcoreapp3.1\Acrylic testing.exe
+F:\Projects\CS\Projects\Acrylic testing\Acrylic testing\bin\Debug\netcoreapp3.1\Acrylic testing.deps.json
+F:\Projects\CS\Projects\Acrylic testing\Acrylic testing\bin\Debug\netcoreapp3.1\Acrylic testing.runtimeconfig.json
+F:\Projects\CS\Projects\Acrylic testing\Acrylic testing\bin\Debug\netcoreapp3.1\Acrylic testing.runtimeconfig.dev.json
+F:\Projects\CS\Projects\Acrylic testing\Acrylic testing\bin\Debug\netcoreapp3.1\Acrylic testing.dll
+F:\Projects\CS\Projects\Acrylic testing\Acrylic testing\bin\Debug\netcoreapp3.1\Acrylic testing.pdb
+F:\Projects\CS\Projects\Acrylic testing\Acrylic testing\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+F:\Projects\CS\Projects\Acrylic testing\Acrylic testing\obj\Debug\netcoreapp3.1\Acrylic testing_MarkupCompile.lref
+F:\Projects\CS\Projects\Acrylic testing\Acrylic testing\obj\Debug\netcoreapp3.1\MainWindow.baml
+F:\Projects\CS\Projects\Acrylic testing\Acrylic testing\obj\Debug\netcoreapp3.1\Acrylic testing.g.resources
+F:\Projects\CS\Projects\Acrylic testing\Acrylic testing\obj\Debug\netcoreapp3.1\Acrylic testing.AssemblyInfoInputs.cache
+F:\Projects\CS\Projects\Acrylic testing\Acrylic testing\obj\Debug\netcoreapp3.1\Acrylic testing.AssemblyInfo.cs
+F:\Projects\CS\Projects\Acrylic testing\Acrylic testing\obj\Debug\netcoreapp3.1\Acrylic testing.csproj.CoreCompileInputs.cache
+F:\Projects\CS\Projects\Acrylic testing\Acrylic testing\obj\Debug\netcoreapp3.1\Acrylic testing.dll
+F:\Projects\CS\Projects\Acrylic testing\Acrylic testing\obj\Debug\netcoreapp3.1\Acrylic testing.pdb
+F:\Projects\CS\Projects\Acrylic testing\Acrylic testing\obj\Debug\netcoreapp3.1\Acrylic testing.genruntimeconfig.cache
+F:\Projects\CS\Projects\Acrylic testing\Acrylic testing\bin\Debug\netcoreapp3.1\FluentWPF.dll
+F:\Projects\CS\Projects\Acrylic testing\Acrylic testing\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+F:\Projects\CS\Projects\Acrylic testing\Acrylic testing\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+F:\Projects\CS\Projects\Acrylic testing\Acrylic testing\obj\Debug\netcoreapp3.1\Acrylic testing.csproj.CopyComplete

@@ -1,0 +1,12 @@
+G:\Documents\Projects\VB\homework testing\homeworkTesting\homeworkTesting\bin\Debug\homeworkTesting.exe.config
+G:\Documents\Projects\VB\homework testing\homeworkTesting\homeworkTesting\bin\Debug\homeworkTesting.exe
+G:\Documents\Projects\VB\homework testing\homeworkTesting\homeworkTesting\bin\Debug\homeworkTesting.pdb
+G:\Documents\Projects\VB\homework testing\homeworkTesting\homeworkTesting\bin\Debug\homeworkTesting.xml
+G:\Documents\Projects\VB\homework testing\homeworkTesting\homeworkTesting\obj\Debug\homeworkTesting.vbprojAssemblyReference.cache
+G:\Documents\Projects\VB\homework testing\homeworkTesting\homeworkTesting\obj\Debug\homeworkTesting.Form1.resources
+G:\Documents\Projects\VB\homework testing\homeworkTesting\homeworkTesting\obj\Debug\homeworkTesting.Resources.resources
+G:\Documents\Projects\VB\homework testing\homeworkTesting\homeworkTesting\obj\Debug\homeworkTesting.vbproj.GenerateResource.cache
+G:\Documents\Projects\VB\homework testing\homeworkTesting\homeworkTesting\obj\Debug\homeworkTesting.vbproj.CoreCompileInputs.cache
+G:\Documents\Projects\VB\homework testing\homeworkTesting\homeworkTesting\obj\Debug\homeworkTesting.exe
+G:\Documents\Projects\VB\homework testing\homeworkTesting\homeworkTesting\obj\Debug\homeworkTesting.xml
+G:\Documents\Projects\VB\homework testing\homeworkTesting\homeworkTesting\obj\Debug\homeworkTesting.pdb

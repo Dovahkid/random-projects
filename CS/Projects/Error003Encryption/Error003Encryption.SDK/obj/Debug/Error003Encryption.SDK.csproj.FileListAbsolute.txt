@@ -1,0 +1,6 @@
+F:\Projects\CS\Projects\Error003Encryption\Error003Encryption.SDK\bin\Debug\Error003Encryption.SDK.dll
+F:\Projects\CS\Projects\Error003Encryption\Error003Encryption.SDK\bin\Debug\Error003Encryption.SDK.pdb
+F:\Projects\CS\Projects\Error003Encryption\Error003Encryption.SDK\obj\Debug\Error003Encryption.SDK.csprojAssemblyReference.cache
+F:\Projects\CS\Projects\Error003Encryption\Error003Encryption.SDK\obj\Debug\Error003Encryption.SDK.csproj.CoreCompileInputs.cache
+F:\Projects\CS\Projects\Error003Encryption\Error003Encryption.SDK\obj\Debug\Error003Encryption.SDK.dll
+F:\Projects\CS\Projects\Error003Encryption\Error003Encryption.SDK\obj\Debug\Error003Encryption.SDK.pdb

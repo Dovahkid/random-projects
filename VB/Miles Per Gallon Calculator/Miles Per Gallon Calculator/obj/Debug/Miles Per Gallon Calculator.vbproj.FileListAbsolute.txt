@@ -1,0 +1,12 @@
+D:\Documents\Projects\VB\Miles Per Gallon Calculator\Miles Per Gallon Calculator\bin\Debug\Miles Per Gallon Calculator.exe.config
+D:\Documents\Projects\VB\Miles Per Gallon Calculator\Miles Per Gallon Calculator\bin\Debug\Miles Per Gallon Calculator.exe
+D:\Documents\Projects\VB\Miles Per Gallon Calculator\Miles Per Gallon Calculator\bin\Debug\Miles Per Gallon Calculator.pdb
+D:\Documents\Projects\VB\Miles Per Gallon Calculator\Miles Per Gallon Calculator\bin\Debug\Miles Per Gallon Calculator.xml
+D:\Documents\Projects\VB\Miles Per Gallon Calculator\Miles Per Gallon Calculator\obj\Debug\Miles Per Gallon Calculator.vbprojAssemblyReference.cache
+D:\Documents\Projects\VB\Miles Per Gallon Calculator\Miles Per Gallon Calculator\obj\Debug\Miles_Per_Gallon_Calculator.Form1.resources
+D:\Documents\Projects\VB\Miles Per Gallon Calculator\Miles Per Gallon Calculator\obj\Debug\Miles_Per_Gallon_Calculator.Resources.resources
+D:\Documents\Projects\VB\Miles Per Gallon Calculator\Miles Per Gallon Calculator\obj\Debug\Miles Per Gallon Calculator.vbproj.GenerateResource.cache
+D:\Documents\Projects\VB\Miles Per Gallon Calculator\Miles Per Gallon Calculator\obj\Debug\Miles Per Gallon Calculator.vbproj.CoreCompileInputs.cache
+D:\Documents\Projects\VB\Miles Per Gallon Calculator\Miles Per Gallon Calculator\obj\Debug\Miles Per Gallon Calculator.exe
+D:\Documents\Projects\VB\Miles Per Gallon Calculator\Miles Per Gallon Calculator\obj\Debug\Miles Per Gallon Calculator.xml
+D:\Documents\Projects\VB\Miles Per Gallon Calculator\Miles Per Gallon Calculator\obj\Debug\Miles Per Gallon Calculator.pdb

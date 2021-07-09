@@ -1,0 +1,12 @@
+G:\Documents\Projects\VB\brandisbagels\brandisbagels\bin\Debug\brandisbagels.exe.config
+G:\Documents\Projects\VB\brandisbagels\brandisbagels\bin\Debug\brandisbagels.exe
+G:\Documents\Projects\VB\brandisbagels\brandisbagels\bin\Debug\brandisbagels.pdb
+G:\Documents\Projects\VB\brandisbagels\brandisbagels\bin\Debug\brandisbagels.xml
+G:\Documents\Projects\VB\brandisbagels\brandisbagels\obj\Debug\brandisbagels.vbprojAssemblyReference.cache
+G:\Documents\Projects\VB\brandisbagels\brandisbagels\obj\Debug\brandisbagels.Form1.resources
+G:\Documents\Projects\VB\brandisbagels\brandisbagels\obj\Debug\brandisbagels.Resources.resources
+G:\Documents\Projects\VB\brandisbagels\brandisbagels\obj\Debug\brandisbagels.vbproj.GenerateResource.cache
+G:\Documents\Projects\VB\brandisbagels\brandisbagels\obj\Debug\brandisbagels.vbproj.CoreCompileInputs.cache
+G:\Documents\Projects\VB\brandisbagels\brandisbagels\obj\Debug\brandisbagels.exe
+G:\Documents\Projects\VB\brandisbagels\brandisbagels\obj\Debug\brandisbagels.xml
+G:\Documents\Projects\VB\brandisbagels\brandisbagels\obj\Debug\brandisbagels.pdb

@@ -1,0 +1,246 @@
+<!DOCTYPE HTML>
+<meta charset="UTF-8">
+<html>
+<head>
+<link rel="shortcut icon" href="mario.ico">
+<title> First HTML page! </title>
+<body>
+
+<style>
+	body {
+		background-image: url("http://cdn.wallpapersafari.com/63/63/4I3aYB.jpg");
+		}
+</style>
+
+<div style="background-color:; color:white";
+
+<!-- This is basic text -->
+<!--This is my first HTML webpage
+Even though this is on a seperate line this is still apart of "This is my first HTML webpage" Lets see if I can make it go to a new line without using the paragraph thing/new line thing! OH LOOK! New line!
+-->
+<!-- This is how to start a new line -->
+<br /> That line above could have easily been created just by using "br". "br" has no end tag.
+
+<!-- This is how to make a seperate paragraph -->
+<p> This is a seperate paragraph! </p>
+
+<!-- This is different forms of text -->
+<p><small> This is small text </small></p>
+<p><big> This is BIG text </big></p>
+<p><i> This is italics </i></p>
+<p><b> This is bold text </b></p>
+<p><sub> This is subscripted text </sub></p>
+<p><sup> This is superscripted text </sup></p>
+<p><strong> This is strong text </strong></p>
+<p><ins> This is inserted text </ins></p>
+<p><del> This is deleted text </del></p>
+
+<!-- This is the 6 levels of headings -->
+<h1> This is a heading! </h1>
+<h2> This is a second heading! </h2>
+<h3> This is a third heading! </h3>
+<h4> This is a fourth heading! </h4>
+<h5> This is a fifth heading! </h5>
+<h6> This is the sixth heading! The final heading! </h6>
+
+<!-- Line -->
+<hr/>
+<p> Right above this text is a line </p>
+
+<!-- This is a comment -->
+
+<!--This text is aligned to the center-->
+<p align=center>
+This is in the center
+</p>
+
+<p align=right>
+This is to the right of the screen
+</p>
+
+<!--These lines get slowlt smaller-->
+<hr width=50% align=center />
+<hr width=40% align=center />
+<hr width=30% align=center />
+<hr width=20% align=center />
+<hr width=10% align=center />
+
+<!--IMAGE 25% the size with a 5 pixel border Alt is the text displayed incase image does not show There is a link in the image that opens a new tab-->
+<a href="http://www.imdb.com/title/tt0145487/" target="_blank"> <img src = "Spider.png" width=10% border=5px alt="Spiderman" /> </a><br/>
+
+<!--Link!-->
+<a href="https://www.sololearn.com" target="_blank"> This is a link</a><br/>
+
+<!--This is an ordered list-->
+<ol>
+	<li> This is the first part of the list</li>
+	<li> This is a the second part of the list </li>
+	<li> This is the third part of the list </li>
+	<li> This list could continue forver </li>
+</ol>
+
+<!--This is an unordered list-->
+<ul>
+	<li> This is the first part of the list</li>
+	<li> This is a the second part of the list </li>
+	<li> This is the third part of the list </li>
+	<li> This list could continue forver </li>
+</ul>
+
+<!--This is a table. One row, 3 columns-->
+<Table align=center border=2px>
+	<tr>
+		<td> Table </td>
+		<td> Table2 </td>
+		<td> Table3 </td>
+	</tr>
+	<tr>
+		<td>1</td>
+		<td>2</td>
+		<td>3</td>
+	</tr>
+</Table>
+
+<!--This table has 2 rows with 3 colums. Row 2 takes up 3 columns. The table is colored red-->
+<Table border=1px bgcolor="red">
+	<tr>
+		<td> Table4 </td>
+		<td> Table5 </td>
+		<td> Table6 </td>
+	</tr>
+	<tr>
+		<td colspan="3">5</td>
+	</tr>
+</Table>
+
+<!--This is box, colored box, colored text-->
+<h1> This is colored </h1>
+<div style="background-color:yellow; color:blue; padding:20px;">
+<p>This is a test</p>
+</div>
+
+<!--This is a heading with a link-->
+<a href="http://www.colorcombos.com/images/colors/FF0000.png" target="_blank">
+	<h2>
+	This is <span style="color:red">colored</span>
+	text
+	</h2>
+</a>
+
+<!--User input-->
+<!--Type "radio" only allows one of the options-->
+<form>
+	<input type="text" name="username"/>Username<br/>
+	<input type="password" name="password"/>Password<br/>
+</form>
+<form>
+	<input type="radio" name="gender" value="Male"/>Male<br/>
+	<input type="radio" name="gender" value="Female"/>Female<br/>
+	<input type="radio" name="gender" value="Other"/>Other <input type="text" name="gender"/><br/>
+	<input type="radio" name="gender" value="Assume"/>UMM Did you just assume I have a gender?!<br/>
+	<input type="submit" value="Submit"/><br/>
+	<input type="checkbox" name="test" value="testt">Checkbox1<br/>
+	<input type="checkbox" name="test" value="test">Checkbox2<br/>
+</form>
+<br/><br/><br/>
+
+<form>
+	<table border=1px>
+		<tr>
+			<td> Name </td>
+			<td> Age </td>
+			<td> <progress value=50 max="100"> </td>
+		</tr>
+		<tr>
+			<td> <input type="text" name="name"/> </td>
+			<td> <input type="number" name="age"/> </td>
+			<td> <input type="submit" value="Submit"/> </td>
+		</tr>
+	</table>
+</form>
+
+
+<svg width="100" height="100">
+<circle cx="50" cy="50" r="50" fill="blue"
+style="stroke:#000000;"/>
+</circle>
+</svg>
+<br>
+<svg width="100" height="100">
+	<rect width="100" height="100" x="0" y="0" r="50" fill="blue"
+	style="stroke:#ff0000;"/>
+	</rect>
+</svg>
+<br/>
+<svg width="1000" height="100">
+	<rect width="50" height="60" x="0" r=50 fill="yellow">
+		<animate attributeName="x" from="-200" to="1000" dur="10s" fill="freeze" repeatCount="indefinite"/>
+	</rect>
+</svg>
+
+<table border="2px">
+	<tr>
+		<td> <svg width="1000" height="50">
+	<rect width="150" height="60" x="0" r=50 fill="lightgreen">
+		<animate attributeName="x" from="0" to="999" dur="5s" fill="freeze" repeatCount="indefinite"/>
+	</rect>
+</svg> </td>
+	</tr>
+</table>
+
+<table border="10px">
+	<tr>
+		<td> <div style="background-color:yellow; color:blue; padding:20px;">
+			<p>This is a block inside of a table. Basically the BGcolor but cooler</p> </td>
+	</tr>
+</table>
+
+<iframe src="first.html" width="1290" height="2300"></iframe>
+
+	<svg width="1900" height="100">
+		<rect width="50" height="100" fill="blue">
+			<animate attributeName="x" from="0" to="1899" dur="5s" fill="freeze" repeatCount="indefinite">
+		</rect>
+	</svg>
+
+	<svg width="300" height="300">
+		<path d="M 0 0 L200 200 L200 0 Z" style="stroke:#fff; fill:none"/>
+	</svg><br>
+	
+	<svg width="300" height="300">
+		<path d="M 0 0 L200 0 L200 200 L0 200 Z" style="stroke:#fff; fill:blue" />
+	</svg>
+	
+	<form>
+		<label for="user"> What is your username? </label>
+		<input id="user" name="username" type="text" required placeholder="Username" autofocus/><br>
+		<label for="pass"> What is your password? </label>
+		<input id="pass" name="password" type="text" placeholder="Password"/><br>
+		<label for="tel"> What is your number? </label>
+		<input id="tel" name="tel" type="tel" placeholder="ex. 555-555-5555"/><br>
+		<label for="email"> What is your email? </label>
+		<input id="email" name="email" type="email" placeholder="placeholder@mail.com"/><br>
+		<label for="url"> What is your url? </label>
+		<input id="url" name="url" type="url" placeholder="placeholder.com"/><br>
+		<input id="submit" name="submit" type="submit" value="submit"/>
+	</form>
+	<form>
+		<label for="search"> Search </label>
+		<input id="search" name="search" type="search"/>
+	</form>
+	<form>
+		<label for="color"> What color? </label>
+		<input id="color" type="text" list="colors"/>
+		<datalist id="colors">
+		<option value="Red">
+		<option value="Blue">
+		<option value="Green">
+		</datalist>
+	<form/>
+
+
+<br/><br/><br/>
+
+</body>
+</head>
+</html>

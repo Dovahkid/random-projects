@@ -1,0 +1,34 @@
+F:\Projects\C#\Projects\Vigenere\5. VigenereWPF\VigenereWPF\bin\Debug\VigenereWPF.exe.config
+F:\Projects\C#\Projects\Vigenere\5. VigenereWPF\VigenereWPF\bin\Debug\VigenereWPF.exe
+F:\Projects\C#\Projects\Vigenere\5. VigenereWPF\VigenereWPF\bin\Debug\VigenereWPF.pdb
+F:\Projects\C#\Projects\Vigenere\5. VigenereWPF\VigenereWPF\obj\Debug\VigenereWPF.csprojAssemblyReference.cache
+F:\Projects\C#\Projects\Vigenere\5. VigenereWPF\VigenereWPF\obj\Debug\MainWindow.g.cs
+F:\Projects\C#\Projects\Vigenere\5. VigenereWPF\VigenereWPF\obj\Debug\App.g.cs
+F:\Projects\C#\Projects\Vigenere\5. VigenereWPF\VigenereWPF\obj\Debug\VigenereWPF_MarkupCompile.cache
+F:\Projects\C#\Projects\Vigenere\5. VigenereWPF\VigenereWPF\obj\Debug\VigenereWPF_MarkupCompile.lref
+F:\Projects\C#\Projects\Vigenere\5. VigenereWPF\VigenereWPF\obj\Debug\MainWindow.baml
+F:\Projects\C#\Projects\Vigenere\5. VigenereWPF\VigenereWPF\obj\Debug\VigenereWPF.g.resources
+F:\Projects\C#\Projects\Vigenere\5. VigenereWPF\VigenereWPF\obj\Debug\VigenereWPF.Properties.Resources.resources
+F:\Projects\C#\Projects\Vigenere\5. VigenereWPF\VigenereWPF\obj\Debug\VigenereWPF.csproj.GenerateResource.cache
+F:\Projects\C#\Projects\Vigenere\5. VigenereWPF\VigenereWPF\obj\Debug\VigenereWPF.exe
+F:\Projects\C#\Projects\Vigenere\5. VigenereWPF\VigenereWPF\obj\Debug\VigenereWPF.pdb
+F:\Projects\C#\Projects\Vigenere\5. VigenereWPF\VigenereWPF\bin\Debug\vigenere library.dll
+F:\Projects\C#\Projects\Vigenere\5. VigenereWPF\VigenereWPF\bin\Debug\vigenere library.pdb
+F:\Projects\C#\Projects\Vigenere\5. VigenereWPF\VigenereWPF\obj\Debug\VigenereWPF.csproj.CopyComplete
+F:\Projects\CS\Projects\Vigenere\5. VigenereWPF\VigenereWPF\bin\Debug\VigenereWPF.exe.config
+F:\Projects\CS\Projects\Vigenere\5. VigenereWPF\VigenereWPF\bin\Debug\VigenereWPF.exe
+F:\Projects\CS\Projects\Vigenere\5. VigenereWPF\VigenereWPF\bin\Debug\VigenereWPF.pdb
+F:\Projects\CS\Projects\Vigenere\5. VigenereWPF\VigenereWPF\bin\Debug\vigenere library.dll
+F:\Projects\CS\Projects\Vigenere\5. VigenereWPF\VigenereWPF\bin\Debug\vigenere library.pdb
+F:\Projects\CS\Projects\Vigenere\5. VigenereWPF\VigenereWPF\obj\Debug\VigenereWPF.csprojAssemblyReference.cache
+F:\Projects\CS\Projects\Vigenere\5. VigenereWPF\VigenereWPF\obj\Debug\MainWindow.g.cs
+F:\Projects\CS\Projects\Vigenere\5. VigenereWPF\VigenereWPF\obj\Debug\App.g.cs
+F:\Projects\CS\Projects\Vigenere\5. VigenereWPF\VigenereWPF\obj\Debug\VigenereWPF_MarkupCompile.cache
+F:\Projects\CS\Projects\Vigenere\5. VigenereWPF\VigenereWPF\obj\Debug\VigenereWPF_MarkupCompile.lref
+F:\Projects\CS\Projects\Vigenere\5. VigenereWPF\VigenereWPF\obj\Debug\MainWindow.baml
+F:\Projects\CS\Projects\Vigenere\5. VigenereWPF\VigenereWPF\obj\Debug\VigenereWPF.g.resources
+F:\Projects\CS\Projects\Vigenere\5. VigenereWPF\VigenereWPF\obj\Debug\VigenereWPF.Properties.Resources.resources
+F:\Projects\CS\Projects\Vigenere\5. VigenereWPF\VigenereWPF\obj\Debug\VigenereWPF.csproj.GenerateResource.cache
+F:\Projects\CS\Projects\Vigenere\5. VigenereWPF\VigenereWPF\obj\Debug\VigenereWPF.csproj.CopyComplete
+F:\Projects\CS\Projects\Vigenere\5. VigenereWPF\VigenereWPF\obj\Debug\VigenereWPF.exe
+F:\Projects\CS\Projects\Vigenere\5. VigenereWPF\VigenereWPF\obj\Debug\VigenereWPF.pdb

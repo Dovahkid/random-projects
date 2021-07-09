@@ -1,0 +1,7 @@
+G:\Documents\Projects\C#\everything arrays\everything arrays\bin\Debug\everything arrays.exe.config
+G:\Documents\Projects\C#\everything arrays\everything arrays\bin\Debug\everything arrays.exe
+G:\Documents\Projects\C#\everything arrays\everything arrays\bin\Debug\everything arrays.pdb
+G:\Documents\Projects\C#\everything arrays\everything arrays\obj\Debug\everything arrays.csprojAssemblyReference.cache
+G:\Documents\Projects\C#\everything arrays\everything arrays\obj\Debug\everything arrays.csproj.CoreCompileInputs.cache
+G:\Documents\Projects\C#\everything arrays\everything arrays\obj\Debug\everything arrays.exe
+G:\Documents\Projects\C#\everything arrays\everything arrays\obj\Debug\everything arrays.pdb

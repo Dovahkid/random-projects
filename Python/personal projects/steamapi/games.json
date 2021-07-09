@@ -1,0 +1,1654 @@
+{
+    "games": [
+        {
+            "appid": "30",
+            "name": "No Name Found",
+            "playtime": 0.16666666666666666
+        },
+        {
+            "appid": "70",
+            "name": "No Name Found",
+            "playtime": 13.566666666666666
+        },
+        {
+            "appid": "4000",
+            "name": "Garry's Mod",
+            "playtime": 25.316666666666666
+        },
+        {
+            "appid": "4500",
+            "name": "No Name Found",
+            "playtime": 1.0
+        },
+        {
+            "appid": "220",
+            "name": "Half-Life 2",
+            "playtime": 30.516666666666666
+        },
+        {
+            "appid": "320",
+            "name": "No Name Found",
+            "playtime": 0.016666666666666666
+        },
+        {
+            "appid": "340",
+            "name": "No Name Found",
+            "playtime": 0.016666666666666666
+        },
+        {
+            "appid": "360",
+            "name": "No Name Found",
+            "playtime": 0.0
+        },
+        {
+            "appid": "380",
+            "name": "Half-Life 2: Episode One",
+            "playtime": 5.666666666666667
+        },
+        {
+            "appid": "400",
+            "name": "Portal",
+            "playtime": 2.716666666666667
+        },
+        {
+            "appid": "420",
+            "name": "Half-Life 2: Episode Two",
+            "playtime": 5.916666666666667
+        },
+        {
+            "appid": "20900",
+            "name": "No Name Found",
+            "playtime": 0.016666666666666666
+        },
+        {
+            "appid": "500",
+            "name": "No Name Found",
+            "playtime": 0.0
+        },
+        {
+            "appid": "22300",
+            "name": "No Name Found",
+            "playtime": 0.6
+        },
+        {
+            "appid": "10090",
+            "name": "No Name Found",
+            "playtime": 5.883333333333334
+        },
+        {
+            "appid": "17390",
+            "name": "No Name Found",
+            "playtime": 7.483333333333333
+        },
+        {
+            "appid": "22330",
+            "name": "No Name Found",
+            "playtime": 133.26666666666668
+        },
+        {
+            "appid": "22320",
+            "name": "No Name Found",
+            "playtime": 21.6
+        },
+        {
+            "appid": "6000",
+            "name": "No Name Found",
+            "playtime": 0.016666666666666666
+        },
+        {
+            "appid": "550",
+            "name": "No Name Found",
+            "playtime": 10.3
+        },
+        {
+            "appid": "24960",
+            "name": "No Name Found",
+            "playtime": 0.0
+        },
+        {
+            "appid": "8190",
+            "name": "ValveTestApp8190",
+            "playtime": 9.533333333333333
+        },
+        {
+            "appid": "47810",
+            "name": "No Name Found",
+            "playtime": 0.0
+        },
+        {
+            "appid": "21130",
+            "name": "No Name Found",
+            "playtime": 0.0
+        },
+        {
+            "appid": "21000",
+            "name": "No Name Found",
+            "playtime": 0.0
+        },
+        {
+            "appid": "92800",
+            "name": "SpaceChem",
+            "playtime": 0.2
+        },
+        {
+            "appid": "620",
+            "name": "Portal 2",
+            "playtime": 25.05
+        },
+        {
+            "appid": "105600",
+            "name": "Terraria",
+            "playtime": 116.91666666666667
+        },
+        {
+            "appid": "20920",
+            "name": "ValveTestApp20920",
+            "playtime": 2.933333333333333
+        },
+        {
+            "appid": "24240",
+            "name": "ValveTestApp24240",
+            "playtime": 0.1
+        },
+        {
+            "appid": "9200",
+            "name": "ValveTestApp9200",
+            "playtime": 0.2
+        },
+        {
+            "appid": "110800",
+            "name": "No Name Found",
+            "playtime": 0.4166666666666667
+        },
+        {
+            "appid": "72850",
+            "name": "ValveTestApp72850",
+            "playtime": 843.0166666666667
+        },
+        {
+            "appid": "22380",
+            "name": "ValveTestApp22380",
+            "playtime": 312.9166666666667
+        },
+        {
+            "appid": "63380",
+            "name": "ValveTestApp63380",
+            "playtime": 0.0
+        },
+        {
+            "appid": "102500",
+            "name": "Kingdoms Of Amalur: Reckoning",
+            "playtime": 0.13333333333333333
+        },
+        {
+            "appid": "207610",
+            "name": "ValveTestApp207610",
+            "playtime": 0.3
+        },
+        {
+            "appid": "50300",
+            "name": "ValveTestApp50300",
+            "playtime": 0.43333333333333335
+        },
+        {
+            "appid": "104900",
+            "name": "Orion: Prelude",
+            "playtime": 0.21666666666666667
+        },
+        {
+            "appid": "204120",
+            "name": "No Name Found",
+            "playtime": 0.0
+        },
+        {
+            "appid": "213330",
+            "name": "No Name Found",
+            "playtime": 0.0
+        },
+        {
+            "appid": "200510",
+            "name": "ValveTestApp200510",
+            "playtime": 0.0
+        },
+        {
+            "appid": "200260",
+            "name": "No Name Found",
+            "playtime": 53.733333333333334
+        },
+        {
+            "appid": "205100",
+            "name": "No Name Found",
+            "playtime": 29.883333333333333
+        },
+        {
+            "appid": "218680",
+            "name": "ValveTestApp218680",
+            "playtime": 0.15
+        },
+        {
+            "appid": "3700",
+            "name": "No Name Found",
+            "playtime": 0.0
+        },
+        {
+            "appid": "223470",
+            "name": "POSTAL 2 Complete",
+            "playtime": 0.016666666666666666
+        },
+        {
+            "appid": "208480",
+            "name": "No Name Found",
+            "playtime": 33.3
+        },
+        {
+            "appid": "214510",
+            "name": "ValveTestApp214510",
+            "playtime": 0.0
+        },
+        {
+            "appid": "221640",
+            "name": "ValveTestApp221640",
+            "playtime": 0.0
+        },
+        {
+            "appid": "212480",
+            "name": "ValveTestApp212480",
+            "playtime": 0.5166666666666667
+        },
+        {
+            "appid": "229660",
+            "name": "No Name Found",
+            "playtime": 0.0
+        },
+        {
+            "appid": "227300",
+            "name": "Euro Truck Simulator 2",
+            "playtime": 0.3
+        },
+        {
+            "appid": "11610",
+            "name": "No Name Found",
+            "playtime": 0.2833333333333333
+        },
+        {
+            "appid": "17080",
+            "name": "No Name Found",
+            "playtime": 0.0
+        },
+        {
+            "appid": "51100",
+            "name": "ValveTestApp51100",
+            "playtime": 0.0
+        },
+        {
+            "appid": "99900",
+            "name": "Spiral Knights",
+            "playtime": 4.55
+        },
+        {
+            "appid": "212500",
+            "name": "No Name Found",
+            "playtime": 0.0
+        },
+        {
+            "appid": "218230",
+            "name": "No Name Found",
+            "playtime": 0.26666666666666666
+        },
+        {
+            "appid": "1083500",
+            "name": "No Name Found",
+            "playtime": 0.0
+        },
+        {
+            "appid": "230410",
+            "name": "Warframe",
+            "playtime": 7.116666666666666
+        },
+        {
+            "appid": "236390",
+            "name": "War Thunder",
+            "playtime": 1.5666666666666667
+        },
+        {
+            "appid": "238960",
+            "name": "Path of Exile",
+            "playtime": 0.0
+        },
+        {
+            "appid": "248570",
+            "name": "UntitledApp",
+            "playtime": 0.5666666666666667
+        },
+        {
+            "appid": "202090",
+            "name": "ValveTestApp202090",
+            "playtime": 0.25
+        },
+        {
+            "appid": "226320",
+            "name": "Marvel Heroes 2015",
+            "playtime": 0.08333333333333333
+        },
+        {
+            "appid": "246280",
+            "name": "UntitledApp1",
+            "playtime": 2.4833333333333334
+        },
+        {
+            "appid": "203160",
+            "name": "ValveTestApp203160",
+            "playtime": 10.833333333333334
+        },
+        {
+            "appid": "65790",
+            "name": "No Name Found",
+            "playtime": 0.0
+        },
+        {
+            "appid": "8870",
+            "name": "Bioshock Infinite",
+            "playtime": 14.35
+        },
+        {
+            "appid": "44350",
+            "name": "ValveTestApp44350",
+            "playtime": 0.0
+        },
+        {
+            "appid": "222480",
+            "name": "ValveTestApp222480",
+            "playtime": 0.0
+        },
+        {
+            "appid": "224760",
+            "name": "ValveTestApp224760",
+            "playtime": 0.43333333333333335
+        },
+        {
+            "appid": "242760",
+            "name": "The Forest",
+            "playtime": 69.43333333333334
+        },
+        {
+            "appid": "244850",
+            "name": "Space Engineers",
+            "playtime": 40.03333333333333
+        },
+        {
+            "appid": "207140",
+            "name": "SpeedRunners",
+            "playtime": 0.31666666666666665
+        },
+        {
+            "appid": "368730",
+            "name": "No Time To Explain Remastered",
+            "playtime": 0.0
+        },
+        {
+            "appid": "246900",
+            "name": "Viscera Cleanup Detail",
+            "playtime": 0.9833333333333333
+        },
+        {
+            "appid": "255520",
+            "name": "Viscera Cleanup Detail: Shadow Warrior",
+            "playtime": 1.3833333333333333
+        },
+        {
+            "appid": "265210",
+            "name": "Viscera Cleanup Detail: Santa's Rampage",
+            "playtime": 1.8166666666666667
+        },
+        {
+            "appid": "247020",
+            "name": "UntitledApp0",
+            "playtime": 0.0
+        },
+        {
+            "appid": "218620",
+            "name": "PAYDAY 2",
+            "playtime": 253.76666666666668
+        },
+        {
+            "appid": "249630",
+            "name": "Delver",
+            "playtime": 0.26666666666666666
+        },
+        {
+            "appid": "209000",
+            "name": "ValveTestApp209000",
+            "playtime": 5.333333333333333
+        },
+        {
+            "appid": "251570",
+            "name": "7 Days to Die",
+            "playtime": 109.95
+        },
+        {
+            "appid": "253430",
+            "name": "UntitledApp",
+            "playtime": 0.45
+        },
+        {
+            "appid": "254320",
+            "name": "No Name Found",
+            "playtime": 0.0
+        },
+        {
+            "appid": "241540",
+            "name": "State of Decay",
+            "playtime": 0.0
+        },
+        {
+            "appid": "249130",
+            "name": "No Name Found",
+            "playtime": 24.533333333333335
+        },
+        {
+            "appid": "49520",
+            "name": "Borderlands",
+            "playtime": 15.583333333333334
+        },
+        {
+            "appid": "242700",
+            "name": "Cronus",
+            "playtime": 0.0
+        },
+        {
+            "appid": "211820",
+            "name": "Starbound - Unstable",
+            "playtime": 57.95
+        },
+        {
+            "appid": "367540",
+            "name": "Starbound - Unstable",
+            "playtime": 0.06666666666666667
+        },
+        {
+            "appid": "267530",
+            "name": "The LEGO Movie Videogame",
+            "playtime": 0.0
+        },
+        {
+            "appid": "267550",
+            "name": "The Amazing Spider-Man 2",
+            "playtime": 27.183333333333334
+        },
+        {
+            "appid": "221100",
+            "name": "No Name Found",
+            "playtime": 62.35
+        },
+        {
+            "appid": "235900",
+            "name": "No Name Found",
+            "playtime": 31.216666666666665
+        },
+        {
+            "appid": "268910",
+            "name": "Cuphead",
+            "playtime": 0.6666666666666666
+        },
+        {
+            "appid": "271590",
+            "name": "No Name Found",
+            "playtime": 411.18333333333334
+        },
+        {
+            "appid": "57300",
+            "name": "Amnesia: The Dark Descent",
+            "playtime": 0.0
+        },
+        {
+            "appid": "239200",
+            "name": "No Name Found",
+            "playtime": 0.0
+        },
+        {
+            "appid": "225840",
+            "name": "No Name Found",
+            "playtime": 0.26666666666666666
+        },
+        {
+            "appid": "277930",
+            "name": "No Name Found",
+            "playtime": 18.15
+        },
+        {
+            "appid": "278360",
+            "name": "No Name Found",
+            "playtime": 0.0
+        },
+        {
+            "appid": "239160",
+            "name": "Thief",
+            "playtime": 1.7
+        },
+        {
+            "appid": "246620",
+            "name": "Plague Inc.",
+            "playtime": 0.6333333333333333
+        },
+        {
+            "appid": "285160",
+            "name": "LEGO - The Hobbit",
+            "playtime": 0.0
+        },
+        {
+            "appid": "287700",
+            "name": "No Name Found",
+            "playtime": 3.9166666666666665
+        },
+        {
+            "appid": "243930",
+            "name": "Bound By Flame",
+            "playtime": 1.2333333333333334
+        },
+        {
+            "appid": "290140",
+            "name": "No Name Found",
+            "playtime": 17.466666666666665
+        },
+        {
+            "appid": "290930",
+            "name": "No Name Found",
+            "playtime": 2.5166666666666666
+        },
+        {
+            "appid": "292910",
+            "name": "Deponia: The Complete Journey",
+            "playtime": 0.0
+        },
+        {
+            "appid": "296470",
+            "name": "Mount Your Friends",
+            "playtime": 0.4666666666666667
+        },
+        {
+            "appid": "286690",
+            "name": "Project Redux",
+            "playtime": 5.966666666666667
+        },
+        {
+            "appid": "287390",
+            "name": "Project Redux Two",
+            "playtime": 0.0
+        },
+        {
+            "appid": "301520",
+            "name": "Robocraft",
+            "playtime": 6.216666666666667
+        },
+        {
+            "appid": "301640",
+            "name": "Sniper Elite: Nazi Zombie Army 3",
+            "playtime": 0.0
+        },
+        {
+            "appid": "95400",
+            "name": "ibb and obb",
+            "playtime": 2.433333333333333
+        },
+        {
+            "appid": "243470",
+            "name": "No Name Found",
+            "playtime": 54.166666666666664
+        },
+        {
+            "appid": "304030",
+            "name": "No Name Found",
+            "playtime": 0.0
+        },
+        {
+            "appid": "238090",
+            "name": "Sniper Elite 3",
+            "playtime": 0.0
+        },
+        {
+            "appid": "38400",
+            "name": "No Name Found",
+            "playtime": 1.1333333333333333
+        },
+        {
+            "appid": "38410",
+            "name": "No Name Found",
+            "playtime": 0.016666666666666666
+        },
+        {
+            "appid": "38420",
+            "name": "No Name Found",
+            "playtime": 0.05
+        },
+        {
+            "appid": "313690",
+            "name": "LEGO Batman 3: Beyond Gotham",
+            "playtime": 0.0
+        },
+        {
+            "appid": "206420",
+            "name": "ValveTestApp206420",
+            "playtime": 30.266666666666666
+        },
+        {
+            "appid": "10150",
+            "name": "No Name Found",
+            "playtime": 0.11666666666666667
+        },
+        {
+            "appid": "115320",
+            "name": "ValveTestApp115320",
+            "playtime": 0.0
+        },
+        {
+            "appid": "315430",
+            "name": "No Name Found",
+            "playtime": 2.1
+        },
+        {
+            "appid": "323370",
+            "name": "No Name Found",
+            "playtime": 0.5833333333333334
+        },
+        {
+            "appid": "241930",
+            "name": "Firebird",
+            "playtime": 0.38333333333333336
+        },
+        {
+            "appid": "239140",
+            "name": "Dying Light",
+            "playtime": 88.93333333333334
+        },
+        {
+            "appid": "238320",
+            "name": "Outlast",
+            "playtime": 0.0
+        },
+        {
+            "appid": "211420",
+            "name": "No Name Found",
+            "playtime": 1.7666666666666666
+        },
+        {
+            "appid": "730",
+            "name": "ValveTestApp260",
+            "playtime": 96.66666666666667
+        },
+        {
+            "appid": "305620",
+            "name": "The Long Dark -- Sandbox Alpha v.077",
+            "playtime": 0.16666666666666666
+        },
+        {
+            "appid": "332800",
+            "name": "No Name Found",
+            "playtime": 1.0166666666666666
+        },
+        {
+            "appid": "334230",
+            "name": "No Name Found",
+            "playtime": 0.5333333333333333
+        },
+        {
+            "appid": "335300",
+            "name": "No Name Found",
+            "playtime": 2.066666666666667
+        },
+        {
+            "appid": "319630",
+            "name": "Life is Strange",
+            "playtime": 2.4
+        },
+        {
+            "appid": "346110",
+            "name": "ARK: Survival Evolved",
+            "playtime": 1.05
+        },
+        {
+            "appid": "407530",
+            "name": "ARK: Survival Of The Fittest",
+            "playtime": 0.35
+        },
+        {
+            "appid": "346900",
+            "name": "AdVenture Capitalist",
+            "playtime": 1.3
+        },
+        {
+            "appid": "349480",
+            "name": "No Name Found",
+            "playtime": 2.3833333333333333
+        },
+        {
+            "appid": "287290",
+            "name": "No Name Found",
+            "playtime": 0.0
+        },
+        {
+            "appid": "306130",
+            "name": "No Name Found",
+            "playtime": 134.11666666666667
+        },
+        {
+            "appid": "359050",
+            "name": "Shower With Your Dad Simulator 2015: Do You Still Shower With Your Dad",
+            "playtime": 0.0
+        },
+        {
+            "appid": "359100",
+            "name": "Q.U.B.E. 2",
+            "playtime": 0.0
+        },
+        {
+            "appid": "359580",
+            "name": "Uncanny Valley",
+            "playtime": 0.0
+        },
+        {
+            "appid": "363440",
+            "name": "Suzy",
+            "playtime": 0.0
+        },
+        {
+            "appid": "365450",
+            "name": "Hacknet",
+            "playtime": 3.316666666666667
+        },
+        {
+            "appid": "365670",
+            "name": "No Name Found",
+            "playtime": 0.0
+        },
+        {
+            "appid": "367520",
+            "name": "Hollow Knight",
+            "playtime": 0.0
+        },
+        {
+            "appid": "369200",
+            "name": "No Name Found",
+            "playtime": 0.0
+        },
+        {
+            "appid": "369990",
+            "name": "Gremlins, Inc.",
+            "playtime": 0.0
+        },
+        {
+            "appid": "370360",
+            "name": "TIS-100",
+            "playtime": 0.0
+        },
+        {
+            "appid": "371140",
+            "name": "Aegis Defenders",
+            "playtime": 0.0
+        },
+        {
+            "appid": "322330",
+            "name": "No Name Found",
+            "playtime": 1.1833333333333333
+        },
+        {
+            "appid": "292030",
+            "name": "No Name Found",
+            "playtime": 131.31666666666666
+        },
+        {
+            "appid": "373680",
+            "name": "No Name Found",
+            "playtime": 0.016666666666666666
+        },
+        {
+            "appid": "374320",
+            "name": "Solstice",
+            "playtime": 90.08333333333333
+        },
+        {
+            "appid": "377160",
+            "name": "Fallout 4",
+            "playtime": 738.8833333333333
+        },
+        {
+            "appid": "236870",
+            "name": "Hitman\u2122",
+            "playtime": 0.0
+        },
+        {
+            "appid": "386360",
+            "name": "SMITE",
+            "playtime": 1.8
+        },
+        {
+            "appid": "858460",
+            "name": "No Name Found",
+            "playtime": 0.0
+        },
+        {
+            "appid": "388410",
+            "name": "No Name Found",
+            "playtime": 0.0
+        },
+        {
+            "appid": "391460",
+            "name": "WARMODE",
+            "playtime": 0.3333333333333333
+        },
+        {
+            "appid": "391540",
+            "name": "Undertale",
+            "playtime": 1.75
+        },
+        {
+            "appid": "385710",
+            "name": "INK",
+            "playtime": 0.0
+        },
+        {
+            "appid": "394690",
+            "name": "Tower Unite",
+            "playtime": 0.0
+        },
+        {
+            "appid": "396350",
+            "name": "Bleed 2",
+            "playtime": 0.0
+        },
+        {
+            "appid": "225540",
+            "name": "Mambo",
+            "playtime": 0.5833333333333334
+        },
+        {
+            "appid": "311210",
+            "name": "Call of Duty: Black Ops III",
+            "playtime": 5.933333333333334
+        },
+        {
+            "appid": "455130",
+            "name": "No Name Found",
+            "playtime": 0.0
+        },
+        {
+            "appid": "403970",
+            "name": "The Dwarves",
+            "playtime": 0.0
+        },
+        {
+            "appid": "405710",
+            "name": "Staxel",
+            "playtime": 3.05
+        },
+        {
+            "appid": "98400",
+            "name": "ValveTestApp98400",
+            "playtime": 0.0
+        },
+        {
+            "appid": "407810",
+            "name": "Hard Reset Redux",
+            "playtime": 0.0
+        },
+        {
+            "appid": "410320",
+            "name": "Earth Defense Forth 4.1",
+            "playtime": 0.0
+        },
+        {
+            "appid": "413150",
+            "name": "Stardew Valley",
+            "playtime": 47.95
+        },
+        {
+            "appid": "280790",
+            "name": "Creativerse",
+            "playtime": 5.55
+        },
+        {
+            "appid": "416600",
+            "name": "Full Metal Furies",
+            "playtime": 0.0
+        },
+        {
+            "appid": "416680",
+            "name": "Zombie Night Terror",
+            "playtime": 0.0
+        },
+        {
+            "appid": "208650",
+            "name": "No Name Found",
+            "playtime": 37.78333333333333
+        },
+        {
+            "appid": "424840",
+            "name": "ATLAS",
+            "playtime": 0.0
+        },
+        {
+            "appid": "270880",
+            "name": "American Truck Simulator",
+            "playtime": 0.0
+        },
+        {
+            "appid": "431240",
+            "name": "Golf With Friends",
+            "playtime": 3.7
+        },
+        {
+            "appid": "431960",
+            "name": "Wallpaper Engine",
+            "playtime": 1.3166666666666667
+        },
+        {
+            "appid": "391220",
+            "name": "Rise of the Tomb Raider",
+            "playtime": 21.716666666666665
+        },
+        {
+            "appid": "433950",
+            "name": "Bit Blaster XL",
+            "playtime": 0.0
+        },
+        {
+            "appid": "434460",
+            "name": "Rock of Ages 2",
+            "playtime": 0.0
+        },
+        {
+            "appid": "435400",
+            "name": "No Name Found",
+            "playtime": 0.0
+        },
+        {
+            "appid": "438100",
+            "name": "No Name Found",
+            "playtime": 0.1
+        },
+        {
+            "appid": "444090",
+            "name": "Paladins",
+            "playtime": 2.6166666666666667
+        },
+        {
+            "appid": "596350",
+            "name": "No Name Found",
+            "playtime": 0.0
+        },
+        {
+            "appid": "445980",
+            "name": "No Name Found",
+            "playtime": 0.08333333333333333
+        },
+        {
+            "appid": "107410",
+            "name": "Arma 3",
+            "playtime": 13.85
+        },
+        {
+            "appid": "365590",
+            "name": "No Name Found",
+            "playtime": 5.833333333333333
+        },
+        {
+            "appid": "524440",
+            "name": "No Name Found",
+            "playtime": 0.0
+        },
+        {
+            "appid": "371660",
+            "name": "No Name Found",
+            "playtime": 20.1
+        },
+        {
+            "appid": "275850",
+            "name": "No Man's Sky",
+            "playtime": 2.9833333333333334
+        },
+        {
+            "appid": "368390",
+            "name": "The Darkside Detective",
+            "playtime": 0.0
+        },
+        {
+            "appid": "466560",
+            "name": "Northgard",
+            "playtime": 0.0
+        },
+        {
+            "appid": "255710",
+            "name": "Colossal Order Game",
+            "playtime": 0.16666666666666666
+        },
+        {
+            "appid": "470220",
+            "name": "No Name Found",
+            "playtime": 3.5166666666666666
+        },
+        {
+            "appid": "470780",
+            "name": "She Remembered Caterpillars",
+            "playtime": 0.0
+        },
+        {
+            "appid": "471010",
+            "name": "Seven: The Days Long Gone",
+            "playtime": 0.0
+        },
+        {
+            "appid": "473690",
+            "name": "Absolver",
+            "playtime": 0.0
+        },
+        {
+            "appid": "383150",
+            "name": "ValveTestApp91310",
+            "playtime": 0.0
+        },
+        {
+            "appid": "50130",
+            "name": "Mafia II",
+            "playtime": 0.0
+        },
+        {
+            "appid": "1030830",
+            "name": "RYE",
+            "playtime": 0.0
+        },
+        {
+            "appid": "214850",
+            "name": "ValveTestApp214850",
+            "playtime": 0.03333333333333333
+        },
+        {
+            "appid": "361230",
+            "name": "Super Daryl Deluxe",
+            "playtime": 0.0
+        },
+        {
+            "appid": "403640",
+            "name": "Blacksparrow",
+            "playtime": 18.183333333333334
+        },
+        {
+            "appid": "499890",
+            "name": "Aaero",
+            "playtime": 0.0
+        },
+        {
+            "appid": "503560",
+            "name": "911 Operator",
+            "playtime": 0.0
+        },
+        {
+            "appid": "504130",
+            "name": "Manual Samuel",
+            "playtime": 0.0
+        },
+        {
+            "appid": "514900",
+            "name": "Observer",
+            "playtime": 0.0
+        },
+        {
+            "appid": "360430",
+            "name": "WHISKEY_DEV",
+            "playtime": 0.0
+        },
+        {
+            "appid": "289070",
+            "name": "Madrizzle",
+            "playtime": 4.3
+        },
+        {
+            "appid": "312660",
+            "name": "New_Project_01",
+            "playtime": 0.38333333333333336
+        },
+        {
+            "appid": "337000",
+            "name": "Deus Ex: Mankind Divided",
+            "playtime": 1.7166666666666666
+        },
+        {
+            "appid": "522210",
+            "name": "Serial Cleaner",
+            "playtime": 0.0
+        },
+        {
+            "appid": "522240",
+            "name": "Pool Panic",
+            "playtime": 0.0
+        },
+        {
+            "appid": "527450",
+            "name": "No Name Found",
+            "playtime": 0.4666666666666667
+        },
+        {
+            "appid": "528230",
+            "name": "No Name Found",
+            "playtime": 0.0
+        },
+        {
+            "appid": "324810",
+            "name": "No Name Found",
+            "playtime": 0.05
+        },
+        {
+            "appid": "529110",
+            "name": "No Name Found",
+            "playtime": 0.85
+        },
+        {
+            "appid": "530320",
+            "name": "Wandersong",
+            "playtime": 0.0
+        },
+        {
+            "appid": "7670",
+            "name": "No Name Found",
+            "playtime": 0.0
+        },
+        {
+            "appid": "8850",
+            "name": "No Name Found",
+            "playtime": 0.0
+        },
+        {
+            "appid": "409710",
+            "name": "BeachTree",
+            "playtime": 0.0
+        },
+        {
+            "appid": "409720",
+            "name": "BeachTree2",
+            "playtime": 0.0
+        },
+        {
+            "appid": "544730",
+            "name": "Catan Universe",
+            "playtime": 0.0
+        },
+        {
+            "appid": "545100",
+            "name": "No Name Found",
+            "playtime": 0.0
+        },
+        {
+            "appid": "489830",
+            "name": "The Elder Scrolls V: Skyrim Special Edition",
+            "playtime": 223.3
+        },
+        {
+            "appid": "550650",
+            "name": "Black Squad",
+            "playtime": 0.0
+        },
+        {
+            "appid": "337340",
+            "name": "Finding Paradise",
+            "playtime": 0.0
+        },
+        {
+            "appid": "552520",
+            "name": "No Name Found",
+            "playtime": 87.33333333333333
+        },
+        {
+            "appid": "562810",
+            "name": "No Name Found",
+            "playtime": 1.65
+        },
+        {
+            "appid": "429660",
+            "name": "MEIDJO",
+            "playtime": 0.05
+        },
+        {
+            "appid": "576500",
+            "name": "Evergarden",
+            "playtime": 0.0
+        },
+        {
+            "appid": "578080",
+            "name": "PLAYERUNKNOWN'S BATTLEGROUNDS",
+            "playtime": 103.26666666666667
+        },
+        {
+            "appid": "578330",
+            "name": "LEGO City Undercover",
+            "playtime": 0.0
+        },
+        {
+            "appid": "579760",
+            "name": "No Name Found",
+            "playtime": 0.0
+        },
+        {
+            "appid": "581270",
+            "name": "No Name Found",
+            "playtime": 0.0
+        },
+        {
+            "appid": "584980",
+            "name": "Late Shift",
+            "playtime": 0.0
+        },
+        {
+            "appid": "460930",
+            "name": "No Name Found",
+            "playtime": 122.91666666666667
+        },
+        {
+            "appid": "524220",
+            "name": "TRAIN",
+            "playtime": 22.4
+        },
+        {
+            "appid": "600370",
+            "name": "Paradigm",
+            "playtime": 0.0
+        },
+        {
+            "appid": "332310",
+            "name": "LEGO\u00ae Worlds",
+            "playtime": 0.0
+        },
+        {
+            "appid": "609490",
+            "name": "Minit",
+            "playtime": 0.0
+        },
+        {
+            "appid": "610080",
+            "name": "Realm Grinder",
+            "playtime": 0.06666666666666667
+        },
+        {
+            "appid": "612390",
+            "name": "Dandara",
+            "playtime": 0.0
+        },
+        {
+            "appid": "614570",
+            "name": "Dishonored\u00ae: Death of the Outsider\u2122 ",
+            "playtime": 0.25
+        },
+        {
+            "appid": "619700",
+            "name": "Steel Rats",
+            "playtime": 0.0
+        },
+        {
+            "appid": "619910",
+            "name": "No Name Found",
+            "playtime": 0.31666666666666665
+        },
+        {
+            "appid": "460790",
+            "name": "Papaya",
+            "playtime": 0.16666666666666666
+        },
+        {
+            "appid": "633460",
+            "name": "Tannenberg",
+            "playtime": 0.0
+        },
+        {
+            "appid": "639790",
+            "name": "Deep Space Waifu",
+            "playtime": 0.38333333333333336
+        },
+        {
+            "appid": "641990",
+            "name": "The Escapists 2",
+            "playtime": 1.2
+        },
+        {
+            "appid": "658850",
+            "name": "Do Not Feed the Monkeys",
+            "playtime": 0.0
+        },
+        {
+            "appid": "20500",
+            "name": "Red Faction: Guerrilla ",
+            "playtime": 0.0
+        },
+        {
+            "appid": "667720",
+            "name": "Red Faction Guerrilla Definitive Edition",
+            "playtime": 0.0
+        },
+        {
+            "appid": "493900",
+            "name": "Project Mephisto",
+            "playtime": 0.0
+        },
+        {
+            "appid": "674400",
+            "name": "No Name Found",
+            "playtime": 0.016666666666666666
+        },
+        {
+            "appid": "674520",
+            "name": "FIGHT_N_RAGE",
+            "playtime": 0.0
+        },
+        {
+            "appid": "674940",
+            "name": "Stick Fight: The Game",
+            "playtime": 2.0166666666666666
+        },
+        {
+            "appid": "677160",
+            "name": "We Were Here Too",
+            "playtime": 0.0
+        },
+        {
+            "appid": "680360",
+            "name": "Regions Of Ruin",
+            "playtime": 0.0
+        },
+        {
+            "appid": "684580",
+            "name": "Shoppe Keep 2",
+            "playtime": 5.116666666666666
+        },
+        {
+            "appid": "686600",
+            "name": "No Name Found",
+            "playtime": 0.0
+        },
+        {
+            "appid": "535480",
+            "name": "Sundered",
+            "playtime": 0.0
+        },
+        {
+            "appid": "215280",
+            "name": "No Name Found",
+            "playtime": 0.016666666666666666
+        },
+        {
+            "appid": "698780",
+            "name": "No Name Found",
+            "playtime": 0.016666666666666666
+        },
+        {
+            "appid": "700330",
+            "name": "SCP: Secret Laboratory",
+            "playtime": 0.5333333333333333
+        },
+        {
+            "appid": "435150",
+            "name": "Divinity: Original Sin 2",
+            "playtime": 102.35
+        },
+        {
+            "appid": "731490",
+            "name": "CREM",
+            "playtime": 0.0
+        },
+        {
+            "appid": "732810",
+            "name": "Slipstream",
+            "playtime": 0.0
+        },
+        {
+            "appid": "735580",
+            "name": "RocketMan",
+            "playtime": 0.0
+        },
+        {
+            "appid": "743450",
+            "name": "Monster Prom",
+            "playtime": 0.0
+        },
+        {
+            "appid": "476600",
+            "name": "Call of Duty: WWII",
+            "playtime": 2.3333333333333335
+        },
+        {
+            "appid": "476620",
+            "name": "Call of Duty: WWII - Multiplayer",
+            "playtime": 1.2666666666666666
+        },
+        {
+            "appid": "760060",
+            "name": "Mutant Year Zero: Road to Eden",
+            "playtime": 0.0
+        },
+        {
+            "appid": "763410",
+            "name": "No Name Found",
+            "playtime": 0.26666666666666666
+        },
+        {
+            "appid": "220240",
+            "name": "No Name Found",
+            "playtime": 1.35
+        },
+        {
+            "appid": "368230",
+            "name": "Kingdom",
+            "playtime": 0.0
+        },
+        {
+            "appid": "797410",
+            "name": "Headsnatchers",
+            "playtime": 0.0
+        },
+        {
+            "appid": "637650",
+            "name": "No Name Found",
+            "playtime": 0.0
+        },
+        {
+            "appid": "359550",
+            "name": "No Name Found",
+            "playtime": 773.1166666666667
+        },
+        {
+            "appid": "623990",
+            "name": "No Name Found",
+            "playtime": 0.0
+        },
+        {
+            "appid": "823130",
+            "name": "Totally Accurate Battlegrounds",
+            "playtime": 0.35
+        },
+        {
+            "appid": "826600",
+            "name": "I\u2019m not a Monster",
+            "playtime": 0.0
+        },
+        {
+            "appid": "552500",
+            "name": "Warhammer: Vermintide 2",
+            "playtime": 0.0
+        },
+        {
+            "appid": "737010",
+            "name": "No Name Found",
+            "playtime": 0.0
+        },
+        {
+            "appid": "570940",
+            "name": "Youka",
+            "playtime": 1.4833333333333334
+        },
+        {
+            "appid": "848450",
+            "name": "Subnautica: Below Zero",
+            "playtime": 0.06666666666666667
+        },
+        {
+            "appid": "750920",
+            "name": "tr11",
+            "playtime": 23.916666666666668
+        },
+        {
+            "appid": "440900",
+            "name": "Conan Exiles",
+            "playtime": 28.95
+        },
+        {
+            "appid": "931180",
+            "name": "No Name Found",
+            "playtime": 0.0
+        },
+        {
+            "appid": "863550",
+            "name": "HITMAN\u2122 2",
+            "playtime": 0.0
+        },
+        {
+            "appid": "718670",
+            "name": "Cultist Simulator",
+            "playtime": 0.0
+        },
+        {
+            "appid": "480490",
+            "name": "Prey",
+            "playtime": 0.36666666666666664
+        },
+        {
+            "appid": "741820",
+            "name": "Pinkeye",
+            "playtime": 0.0
+        },
+        {
+            "appid": "878750",
+            "name": "Hentai Tube",
+            "playtime": 1.0666666666666667
+        },
+        {
+            "appid": "883100",
+            "name": "No Name Found",
+            "playtime": 0.43333333333333335
+        },
+        {
+            "appid": "758330",
+            "name": "SHDLaunch",
+            "playtime": 0.0
+        },
+        {
+            "appid": "582010",
+            "name": "ProjectA",
+            "playtime": 3.3666666666666667
+        },
+        {
+            "appid": "897030",
+            "name": "Paratopic",
+            "playtime": 0.0
+        },
+        {
+            "appid": "638970",
+            "name": "Dragon Fruit",
+            "playtime": 0.0
+        },
+        {
+            "appid": "231430",
+            "name": "ValveTestApp55300",
+            "playtime": 0.0
+        },
+        {
+            "appid": "996580",
+            "name": "Wasabi",
+            "playtime": 0.0
+        },
+        {
+            "appid": "204880",
+            "name": "ValveTestApp204880",
+            "playtime": 0.0
+        },
+        {
+            "appid": "308600",
+            "name": "UntitledApp",
+            "playtime": 0.0
+        },
+        {
+            "appid": "1004610",
+            "name": "Roombo: First Blood",
+            "playtime": 0.0
+        },
+        {
+            "appid": "939960",
+            "name": "No Name Found",
+            "playtime": 19.65
+        },
+        {
+            "appid": "1055540",
+            "name": "A Short Hike",
+            "playtime": 0.0
+        },
+        {
+            "appid": "632360",
+            "name": "Risk of Rain 2",
+            "playtime": 1.5666666666666667
+        },
+        {
+            "appid": "794260",
+            "name": "Outward",
+            "playtime": 0.3
+        },
+        {
+            "appid": "1084400",
+            "name": "Hentai Arena | Battle Royale",
+            "playtime": 0.13333333333333333
+        },
+        {
+            "appid": "325180",
+            "name": "No Name Found",
+            "playtime": 0.0
+        },
+        {
+            "appid": "310560",
+            "name": "No Name Found",
+            "playtime": 0.0
+        },
+        {
+            "appid": "1085660",
+            "name": "Destiny 2",
+            "playtime": 0.0
+        },
+        {
+            "appid": "203770",
+            "name": "Crusader Kings II",
+            "playtime": 0.0
+        },
+        {
+            "appid": "678960",
+            "name": "Vena Cava",
+            "playtime": 2.466666666666667
+        },
+        {
+            "appid": "329430",
+            "name": "No Name Found",
+            "playtime": 0.0
+        },
+        {
+            "appid": "1238000",
+            "name": "Mass Effect\u2122: Andromeda",
+            "playtime": 0.0
+        },
+        {
+            "appid": "1151340",
+            "name": "Eagle",
+            "playtime": 268.18333333333334
+        },
+        {
+            "appid": "1286830",
+            "name": "STAR WARS\u2122: The Old Republic\u2122",
+            "playtime": 0.0
+        },
+        {
+            "appid": "34330",
+            "name": "ValveTestApp34250",
+            "playtime": 0.0
+        }
+    ]
+}

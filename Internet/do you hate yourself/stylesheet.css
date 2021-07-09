@@ -1,0 +1,40 @@
+body{
+
+  font-family: 'Montserrat', sans-serif;
+  font-size: 24;
+
+}
+
+.formStyle{
+
+  font-size: 18;
+
+}
+
+span#customButton{
+
+  font-size: 18;
+  color: black;
+  border-radius: 5px;
+  border-top: 2px solid rgb(0,100,255);
+  border-bottom: 2px solid rgb(0,100,255);
+  border-left: 2px solid rgb(0,100,255);
+  border-right: 2px solid rgb(0,100,255);
+
+  cursor: pointer;
+
+}
+
+#pleaseSelect{
+
+  font-size: 10;
+  color: red;
+  white-space: pre;
+
+}
+
+#queMark{
+
+  cursor: pointer;
+
+}

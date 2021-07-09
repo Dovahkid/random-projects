@@ -1,0 +1,6 @@
+F:\Projects\CS\Projects\Error003Encryption\Error003AddonManager\bin\Debug\Error003AddonManager.dll
+F:\Projects\CS\Projects\Error003Encryption\Error003AddonManager\bin\Debug\Error003AddonManager.pdb
+F:\Projects\CS\Projects\Error003Encryption\Error003AddonManager\obj\Debug\Error003AddonManager.csprojAssemblyReference.cache
+F:\Projects\CS\Projects\Error003Encryption\Error003AddonManager\obj\Debug\Error003AddonManager.csproj.CoreCompileInputs.cache
+F:\Projects\CS\Projects\Error003Encryption\Error003AddonManager\obj\Debug\Error003AddonManager.dll
+F:\Projects\CS\Projects\Error003Encryption\Error003AddonManager\obj\Debug\Error003AddonManager.pdb

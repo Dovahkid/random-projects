@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  open the vault.cpp
+g:\documents\projects\c++\open the vault\open the vault\open the vault\open the vault.cpp(9): warning C4129: 'S': unrecognized character escape sequence
+  open the vault.vcxproj -> G:\Documents\Projects\C++\open the vault\open the vault\Debug\open the vault.exe

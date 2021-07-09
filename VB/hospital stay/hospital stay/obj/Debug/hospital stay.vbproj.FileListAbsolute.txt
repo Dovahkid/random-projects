@@ -1,0 +1,12 @@
+G:\Documents\Projects\VB\hospital stay\hospital stay\bin\Debug\hospital stay.exe.config
+G:\Documents\Projects\VB\hospital stay\hospital stay\bin\Debug\hospital stay.exe
+G:\Documents\Projects\VB\hospital stay\hospital stay\bin\Debug\hospital stay.pdb
+G:\Documents\Projects\VB\hospital stay\hospital stay\bin\Debug\hospital stay.xml
+G:\Documents\Projects\VB\hospital stay\hospital stay\obj\Debug\hospital stay.vbprojAssemblyReference.cache
+G:\Documents\Projects\VB\hospital stay\hospital stay\obj\Debug\hospital_stay.Form1.resources
+G:\Documents\Projects\VB\hospital stay\hospital stay\obj\Debug\hospital_stay.Resources.resources
+G:\Documents\Projects\VB\hospital stay\hospital stay\obj\Debug\hospital stay.vbproj.GenerateResource.cache
+G:\Documents\Projects\VB\hospital stay\hospital stay\obj\Debug\hospital stay.vbproj.CoreCompileInputs.cache
+G:\Documents\Projects\VB\hospital stay\hospital stay\obj\Debug\hospital stay.exe
+G:\Documents\Projects\VB\hospital stay\hospital stay\obj\Debug\hospital stay.xml
+G:\Documents\Projects\VB\hospital stay\hospital stay\obj\Debug\hospital stay.pdb

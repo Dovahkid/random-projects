@@ -1,0 +1,7 @@
+name: Mcdev
+version: ${project.version}
+main: com.dovahkid.mcdev.mcdev.Mcdev
+api-version: 1.13
+authors: [Michael]
+description: A plugin using MCDEV for intellij
+website: dovahkid.com

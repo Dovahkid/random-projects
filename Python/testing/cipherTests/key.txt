@@ -1,0 +1,2 @@
+alph = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890,./?[]{}()*&^%$#@! "
+cipher = "4dX%6z[tH1hOlj, qTUcW5KC2w{vM?/N*s!DuVE}m8e@QLnAFP)7xB0]k^&.SgfpZibyIG9$oar(YJR3#"

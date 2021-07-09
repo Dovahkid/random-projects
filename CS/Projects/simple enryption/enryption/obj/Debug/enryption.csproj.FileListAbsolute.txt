@@ -1,0 +1,14 @@
+D:\Documents\Projects\C#\enryption\enryption\bin\Debug\enryption.exe.config
+D:\Documents\Projects\C#\enryption\enryption\bin\Debug\enryption.exe
+D:\Documents\Projects\C#\enryption\enryption\bin\Debug\enryption.pdb
+D:\Documents\Projects\C#\enryption\enryption\obj\Debug\enryption.csprojAssemblyReference.cache
+D:\Documents\Projects\C#\enryption\enryption\obj\Debug\enryption.csproj.CoreCompileInputs.cache
+D:\Documents\Projects\C#\enryption\enryption\obj\Debug\enryption.exe
+D:\Documents\Projects\C#\enryption\enryption\obj\Debug\enryption.pdb
+E:\USb back\Projects\C#\enryption\enryption\bin\Debug\enryption.exe.config
+E:\USb back\Projects\C#\enryption\enryption\bin\Debug\enryption.exe
+E:\USb back\Projects\C#\enryption\enryption\bin\Debug\enryption.pdb
+E:\USb back\Projects\C#\enryption\enryption\obj\Debug\enryption.csprojAssemblyReference.cache
+E:\USb back\Projects\C#\enryption\enryption\obj\Debug\enryption.csproj.CoreCompileInputs.cache
+E:\USb back\Projects\C#\enryption\enryption\obj\Debug\enryption.exe
+E:\USb back\Projects\C#\enryption\enryption\obj\Debug\enryption.pdb

@@ -1,0 +1,279 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #920a28;
+  -webkit-animation: rainbow 5s ease infinite;
+  -o-animation: rainbow 5s ease infinite;
+  -moz-aninmation: rainbow 5s ease infinite;
+  animation: rainbow 5s ease infinite;
+  animation-play-state: paused;
+}
+
+
+.TitlePage {
+  display: block;
+  position: relative;
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-top: 50px;
+  border-style: solid;
+  border-width: thick;
+  box-sizing: border-box;
+  background-color: #fff;
+  border-color: #000;
+}
+
+div#Title {
+  display: flex;
+  justify-content: center;
+  margin-top: -850px;
+  margin-bottom: -850px;
+}
+
+img#Title {
+  margin: auto;
+  height: auto;
+  max-width: 35%;
+  position: relative;
+}
+
+img#Crest {
+  margin: auto;
+  height: auto;
+  max-width: 35%;
+  position: relative;
+}
+
+.EditionsPage {
+  display: block;
+  position: relative;
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-top: 50px;
+  border-style: solid;
+  border-width: thick;
+  box-sizing: border-box;
+  font-family: "Hind";
+  background-color: #fff;
+  border-color: #000;
+}
+
+h3 {
+  color: #000;
+  text-align: center;
+  text-decoration: none;
+  font-size: 35px;
+  margin-bottom: -15px;
+  font-family: "Hind";
+}
+
+p#Contents {
+  color: #000;
+  font-size: 15px;
+  text-align: center;
+  font-family: "Hind";
+}
+
+ul#Contents {
+  list-style-type: none;
+  text-align: center;
+  color: #000;
+  font-family: "Hind";
+}
+
+ul#Contents a {
+  color: #000;
+  font-size: 20px;
+  font-family: "Hind";
+}
+
+ul#Contents a:hover {
+  color: #930a28;
+}
+
+li#Contents {
+  margin-left: -40px
+  color: #000;
+  font-family: "Hind";
+}
+
+div.SubmitionPage {
+  display: block;
+  position: relative;
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-top: 50px;
+  border-style: solid;
+  border-width: thick;
+  box-sizing: border-box;
+  background-color: #fff;
+  border-color: #000;
+  text-align: center;
+}
+
+p#Submit {
+  font-size: 20px;
+  color: #000;
+  margin-top: 25px;
+  font-family: "Hind";
+}
+
+p#Submit a {
+  font-size: 20px;
+  color: #000;
+  font-family: "Hind";
+}
+
+p#Submit a:hover {
+  color: #930a28;
+}
+
+div.CreditsPage {
+  display: block;
+  position: relative;
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-top: 50px;
+  border-style: solid;
+  border-width: thick;
+  box-sizing: border-box;
+  background-color: #fff;
+  border-color: #000;
+}
+
+div#Credits {
+  text-align: center;
+  /* border: 3px solid #920a28; */
+  margin-left: 100px;
+  margin-right: 100px;
+  list-style-type: none;
+  position: relative;
+  padding: 0px;
+  font-family: "Hind";
+}
+
+h4 {
+  font-size: 25px;
+  color: #000;
+}
+
+li#Credits {
+  display: inline;
+  text-align: center;
+  margin-left: -40px;
+  padding: 0px 40px;
+  color: #000;
+}
+
+div.Media {
+  display: flex;
+  justify-content: center;
+}
+
+img#Reddit {
+  margin: auto;
+  height: auto;
+  width: 50px;
+  margin-top: 15px;
+  position: relative;
+  padding: 5px;
+}
+
+img#Facebook {
+  margin: auto;
+  height: auto;
+  width: 55px;
+  margin-top: 15px;
+  position: relative;
+  padding: 3px;
+}
+
+img#Instagram {
+  margin: auto;
+  height: auto;
+  width: 50px;
+  margin-top: 15px;
+  position: relative;
+  padding: 5px;
+}
+
+p#meme {
+  color: #000;
+  text-align: center;
+  font-family: "Comic Sans MS";
+  position: relative;
+}
+
+@media only screen and (min-width: 1921px) {
+  img#Facebook {
+
+  }
+  img#Reddit {
+
+  }
+  img#Instagram {
+
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .media {
+    display: none;
+  }
+
+  h3  {
+    font-size: 25px;
+  }
+
+  p#Contents {
+    font-size: 5px;
+  }
+
+  ul#Contents a {
+    font-size: 10px;
+  }
+
+  p#Submit a {
+    font-size: 10px;
+  }
+
+  h4 {
+    font-size: 15px;
+  }
+
+  [class*="Page"] {
+    min-width: 90%;
+  }
+}
+
+@-webkit-keyframes rainbow {
+    0%{background-position:0% 82%}
+    50%{background-position:100% 19%}
+    100%{background-position:0% 82%}
+}
+@-moz-keyframes rainbow {
+    0%{background-position:0% 82%}
+    50%{background-position:100% 19%}
+    100%{background-position:0% 82%}
+}
+@-o-keyframes rainbow {
+    0%{background-position:0% 82%}
+    50%{background-position:100% 19%}
+    100%{background-position:0% 82%}
+}
+@keyframes rainbow {
+    0%{background-position:0% 82%}
+    50%{background-position:100% 19%}
+    100%{background-position:0% 82%}
+}
+
+@-webkit-keyframes unicorn {
+  from {
+    left: 0;
+  }
+  to {
+    left: 100%;
+  }
+}

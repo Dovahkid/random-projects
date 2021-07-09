@@ -1,0 +1,12 @@
+D:\Documents\Projects\VB\software_sales\software_sales\bin\Debug\software_sales.exe.config
+D:\Documents\Projects\VB\software_sales\software_sales\bin\Debug\software_sales.exe
+D:\Documents\Projects\VB\software_sales\software_sales\bin\Debug\software_sales.pdb
+D:\Documents\Projects\VB\software_sales\software_sales\bin\Debug\software_sales.xml
+D:\Documents\Projects\VB\software_sales\software_sales\obj\Debug\software_sales.vbprojAssemblyReference.cache
+D:\Documents\Projects\VB\software_sales\software_sales\obj\Debug\software_sales.Form1.resources
+D:\Documents\Projects\VB\software_sales\software_sales\obj\Debug\software_sales.Resources.resources
+D:\Documents\Projects\VB\software_sales\software_sales\obj\Debug\software_sales.vbproj.GenerateResource.cache
+D:\Documents\Projects\VB\software_sales\software_sales\obj\Debug\software_sales.vbproj.CoreCompileInputs.cache
+D:\Documents\Projects\VB\software_sales\software_sales\obj\Debug\software_sales.exe
+D:\Documents\Projects\VB\software_sales\software_sales\obj\Debug\software_sales.xml
+D:\Documents\Projects\VB\software_sales\software_sales\obj\Debug\software_sales.pdb

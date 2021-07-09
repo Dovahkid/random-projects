@@ -1,0 +1,12 @@
+D:\Documents\Projects\VB\speed of sound\speed of sound\bin\Debug\speed of sound.exe.config
+D:\Documents\Projects\VB\speed of sound\speed of sound\bin\Debug\speed of sound.exe
+D:\Documents\Projects\VB\speed of sound\speed of sound\bin\Debug\speed of sound.pdb
+D:\Documents\Projects\VB\speed of sound\speed of sound\bin\Debug\speed of sound.xml
+D:\Documents\Projects\VB\speed of sound\speed of sound\obj\Debug\speed of sound.vbprojAssemblyReference.cache
+D:\Documents\Projects\VB\speed of sound\speed of sound\obj\Debug\speed_of_sound.Form1.resources
+D:\Documents\Projects\VB\speed of sound\speed of sound\obj\Debug\speed_of_sound.Resources.resources
+D:\Documents\Projects\VB\speed of sound\speed of sound\obj\Debug\speed of sound.vbproj.GenerateResource.cache
+D:\Documents\Projects\VB\speed of sound\speed of sound\obj\Debug\speed of sound.vbproj.CoreCompileInputs.cache
+D:\Documents\Projects\VB\speed of sound\speed of sound\obj\Debug\speed of sound.exe
+D:\Documents\Projects\VB\speed of sound\speed of sound\obj\Debug\speed of sound.xml
+D:\Documents\Projects\VB\speed of sound\speed of sound\obj\Debug\speed of sound.pdb

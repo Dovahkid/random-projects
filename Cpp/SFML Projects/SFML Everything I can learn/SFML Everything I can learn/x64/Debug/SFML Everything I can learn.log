@@ -1,0 +1,3 @@
+﻿  main.cpp
+d:\sfml projects\sfml everything i can learn\sfml everything i can learn\main.cpp(81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SFML Everything I can learn.vcxproj -> D:\SFML Projects\SFML Everything I can learn\x64\Debug\SFML Everything I can learn.exe

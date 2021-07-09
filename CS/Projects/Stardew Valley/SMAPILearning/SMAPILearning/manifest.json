@@ -1,0 +1,10 @@
+{
+  "Name": "SMAPILearning",
+  "Author": "Michael",
+  "Version": "1.0.0",
+  "Description": "Learning how to use SMAPI to write mods",
+  "UniqueID": "Michael.SMAPILearning",
+  "EntryDll": "SMAPILearning.dll",
+  "MinimumApiVersion": "2.10.0",
+  "UpdateKeys": []
+}

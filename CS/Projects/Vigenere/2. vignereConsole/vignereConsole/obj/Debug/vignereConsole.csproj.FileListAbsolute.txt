@@ -1,0 +1,7 @@
+D:\Documents\Projects\C#\vignereConsole\vignereConsole\bin\Debug\vignereConsole.exe.config
+D:\Documents\Projects\C#\vignereConsole\vignereConsole\bin\Debug\vignereConsole.exe
+D:\Documents\Projects\C#\vignereConsole\vignereConsole\bin\Debug\vignereConsole.pdb
+D:\Documents\Projects\C#\vignereConsole\vignereConsole\obj\Debug\vignereConsole.csprojAssemblyReference.cache
+D:\Documents\Projects\C#\vignereConsole\vignereConsole\obj\Debug\vignereConsole.csproj.CoreCompileInputs.cache
+D:\Documents\Projects\C#\vignereConsole\vignereConsole\obj\Debug\vignereConsole.exe
+D:\Documents\Projects\C#\vignereConsole\vignereConsole\obj\Debug\vignereConsole.pdb

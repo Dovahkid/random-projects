@@ -1,0 +1,3 @@
+﻿  main.cpp
+g:\sfml snake v1\sfml snake v1\main.cpp(86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SFML Snake v1.vcxproj -> G:\SFML Snake v1\x64\Debug\SFML Snake v1.exe

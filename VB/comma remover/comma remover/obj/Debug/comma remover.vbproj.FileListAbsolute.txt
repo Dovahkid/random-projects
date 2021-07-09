@@ -1,0 +1,12 @@
+D:\Documents\Projects\VB\comma remover\comma remover\bin\Debug\comma remover.exe.config
+D:\Documents\Projects\VB\comma remover\comma remover\bin\Debug\comma remover.exe
+D:\Documents\Projects\VB\comma remover\comma remover\bin\Debug\comma remover.pdb
+D:\Documents\Projects\VB\comma remover\comma remover\bin\Debug\comma remover.xml
+D:\Documents\Projects\VB\comma remover\comma remover\obj\Debug\comma remover.vbprojAssemblyReference.cache
+D:\Documents\Projects\VB\comma remover\comma remover\obj\Debug\comma_remover.Form1.resources
+D:\Documents\Projects\VB\comma remover\comma remover\obj\Debug\comma_remover.Resources.resources
+D:\Documents\Projects\VB\comma remover\comma remover\obj\Debug\comma remover.vbproj.GenerateResource.cache
+D:\Documents\Projects\VB\comma remover\comma remover\obj\Debug\comma remover.vbproj.CoreCompileInputs.cache
+D:\Documents\Projects\VB\comma remover\comma remover\obj\Debug\comma remover.exe
+D:\Documents\Projects\VB\comma remover\comma remover\obj\Debug\comma remover.xml
+D:\Documents\Projects\VB\comma remover\comma remover\obj\Debug\comma remover.pdb

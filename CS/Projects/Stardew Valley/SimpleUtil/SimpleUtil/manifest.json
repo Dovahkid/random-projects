@@ -1,0 +1,10 @@
+{
+  "Name": "SimpleUtil",
+  "Author": "Error003",
+  "Version": "1.0.0",
+  "Description": "Simple Utility",
+  "UniqueID": "Error003.SimpleUtil",
+  "EntryDll": "SimpleUtil.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}

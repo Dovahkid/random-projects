@@ -1,0 +1,15 @@
+F:\Projects\CS\Projects\Nonsense\Nonsense Framework\bin\Release\Nonsense Framework.exe.config
+F:\Projects\CS\Projects\Nonsense\Nonsense Framework\bin\Release\Nonsense Framework.exe
+F:\Projects\CS\Projects\Nonsense\Nonsense Framework\bin\Release\Nonsense Framework.pdb
+F:\Projects\CS\Projects\Nonsense\Nonsense Framework\obj\Release\Nonsense Framework.csprojAssemblyReference.cache
+F:\Projects\CS\Projects\Nonsense\Nonsense Framework\obj\Release\MainWindow.g.cs
+F:\Projects\CS\Projects\Nonsense\Nonsense Framework\obj\Release\App.g.cs
+F:\Projects\CS\Projects\Nonsense\Nonsense Framework\obj\Release\Nonsense Framework_MarkupCompile.cache
+F:\Projects\CS\Projects\Nonsense\Nonsense Framework\obj\Release\Nonsense Framework_MarkupCompile.lref
+F:\Projects\CS\Projects\Nonsense\Nonsense Framework\obj\Release\MainWindow.baml
+F:\Projects\CS\Projects\Nonsense\Nonsense Framework\obj\Release\Nonsense Framework.g.resources
+F:\Projects\CS\Projects\Nonsense\Nonsense Framework\obj\Release\Nonsense_Framework.Properties.Resources.resources
+F:\Projects\CS\Projects\Nonsense\Nonsense Framework\obj\Release\Nonsense Framework.csproj.GenerateResource.cache
+F:\Projects\CS\Projects\Nonsense\Nonsense Framework\obj\Release\Nonsense Framework.csproj.CoreCompileInputs.cache
+F:\Projects\CS\Projects\Nonsense\Nonsense Framework\obj\Release\Nonsense Framework.exe
+F:\Projects\CS\Projects\Nonsense\Nonsense Framework\obj\Release\Nonsense Framework.pdb

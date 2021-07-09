@@ -1,0 +1,12 @@
+D:\Documents\Projects\VB\prgrmChallenge 3 - sales tax\prgrmChallenge 3 - sales tax\bin\Debug\prgrmChallenge 3 - sales tax.exe.config
+D:\Documents\Projects\VB\prgrmChallenge 3 - sales tax\prgrmChallenge 3 - sales tax\bin\Debug\prgrmChallenge 3 - sales tax.exe
+D:\Documents\Projects\VB\prgrmChallenge 3 - sales tax\prgrmChallenge 3 - sales tax\bin\Debug\prgrmChallenge 3 - sales tax.pdb
+D:\Documents\Projects\VB\prgrmChallenge 3 - sales tax\prgrmChallenge 3 - sales tax\bin\Debug\prgrmChallenge 3 - sales tax.xml
+D:\Documents\Projects\VB\prgrmChallenge 3 - sales tax\prgrmChallenge 3 - sales tax\obj\Debug\prgrmChallenge 3 - sales tax.vbprojAssemblyReference.cache
+D:\Documents\Projects\VB\prgrmChallenge 3 - sales tax\prgrmChallenge 3 - sales tax\obj\Debug\prgrmChallenge_3___sales_tax.Form1.resources
+D:\Documents\Projects\VB\prgrmChallenge 3 - sales tax\prgrmChallenge 3 - sales tax\obj\Debug\prgrmChallenge_3___sales_tax.Resources.resources
+D:\Documents\Projects\VB\prgrmChallenge 3 - sales tax\prgrmChallenge 3 - sales tax\obj\Debug\prgrmChallenge 3 - sales tax.vbproj.GenerateResource.cache
+D:\Documents\Projects\VB\prgrmChallenge 3 - sales tax\prgrmChallenge 3 - sales tax\obj\Debug\prgrmChallenge 3 - sales tax.vbproj.CoreCompileInputs.cache
+D:\Documents\Projects\VB\prgrmChallenge 3 - sales tax\prgrmChallenge 3 - sales tax\obj\Debug\prgrmChallenge 3 - sales tax.exe
+D:\Documents\Projects\VB\prgrmChallenge 3 - sales tax\prgrmChallenge 3 - sales tax\obj\Debug\prgrmChallenge 3 - sales tax.xml
+D:\Documents\Projects\VB\prgrmChallenge 3 - sales tax\prgrmChallenge 3 - sales tax\obj\Debug\prgrmChallenge 3 - sales tax.pdb

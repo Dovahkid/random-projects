@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Generic Baby",
+    "age": 1,
+    "eyeColor": "brown",
+    "isAdult": false,
+    "height": 2.5,
+    "picture": "https://github.com/Dovahkid/dovahkid.github.io/blob/master/media/code.jpg?raw=true"
+  },
+  {
+    "name": "Michael",
+    "age": 18,
+    "eyeColor": "Brown",
+    "isAdult": true,
+    "height": 70.8,
+    "picture": "https://github.com/Dovahkid/dovahkid.github.io/blob/master/media/code.jpg?raw=true"
+  },
+  {
+    "name": "Kaleigh",
+    "age": 17,
+    "eyeColor": "greenish",
+    "isAdult": false,
+    "height": 64.8,
+    "picture": "https://github.com/Dovahkid/dovahkid.github.io/blob/master/media/code.jpg?raw=true"
+  },
+  {
+    "name": "Tanner",
+    "age": 17,
+    "eyeColor": "hazel",
+    "isAdult": false,
+    "height": 73.2,
+    "picture": "https://github.com/Dovahkid/dovahkid.github.io/blob/master/media/code.jpg?raw=true"
+  },
+  {
+    "name": "Carson",
+    "age": 17,
+    "eyeColor": "blue",
+    "isAdult": false,
+    "height": 71.0,
+    "picture": "https://github.com/Dovahkid/dovahkid.github.io/blob/master/media/code.jpg?raw=true"
+  }
+]

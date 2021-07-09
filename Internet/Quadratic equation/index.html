@@ -1,0 +1,34 @@
+<html>
+<head>
+</head>
+<body>
+
+<input type="text" id="aVal"> </input>
+<input type="text" id="bVal"> </input>
+<input type="text" id="cVal"> </input>
+<input type="submit" onclick="calculate();"></input>
+
+<h2 id="answer"> </h2>
+
+<script>
+
+function calculate(){
+	while(true){
+		var a = document.getElementById("aVal").value;
+		var b = document.getElementById("bVal").value;
+		var c = document.getElementById("cVal").value;
+		var oppositeB = -1 * b;
+		var bSqrMin4ac = (Math.pow(b,2)) - 4 * a * c;
+		var underSqr = (bSqrMin4ac >= 0) ? Math.pow(bSqrMin4ac, 1/2): "";
+		var twoA = 2 * a;
+		
+		//var answer1 = (underSqr != "") ? (oppositeB + underSqr)/twoA:"non real answer";
+		//var answer2 = (underSqr != "") ? (oppositeB - underSqr)/twoA:"non real answer";
+		//document.getElementById("answer").innerHTML = "Answer is: ", answer1, answer2;
+		//console.log(answer1, answer2);
+	}
+}
+
+</script>
+</body>
+</html>

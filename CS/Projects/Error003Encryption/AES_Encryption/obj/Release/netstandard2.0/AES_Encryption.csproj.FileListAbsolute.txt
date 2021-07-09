@@ -1,0 +1,12 @@
+F:\Projects\CS\Projects\Error003Encryption\AES_Encryption\bin\Release\netstandard2.0\AES_Encryption.deps.json
+F:\Projects\CS\Projects\Error003Encryption\AES_Encryption\bin\Release\netstandard2.0\AES_Encryption.dll
+F:\Projects\CS\Projects\Error003Encryption\AES_Encryption\bin\Release\netstandard2.0\AES_Encryption.pdb
+F:\Projects\CS\Projects\Error003Encryption\AES_Encryption\bin\Release\netstandard2.0\Error003Encryption.SDK.dll
+F:\Projects\CS\Projects\Error003Encryption\AES_Encryption\bin\Release\netstandard2.0\Error003Encryption.SDK.pdb
+F:\Projects\CS\Projects\Error003Encryption\AES_Encryption\obj\Release\netstandard2.0\AES_Encryption.csprojAssemblyReference.cache
+F:\Projects\CS\Projects\Error003Encryption\AES_Encryption\obj\Release\netstandard2.0\AES_Encryption.csproj.CoreCompileInputs.cache
+F:\Projects\CS\Projects\Error003Encryption\AES_Encryption\obj\Release\netstandard2.0\AES_Encryption.AssemblyInfoInputs.cache
+F:\Projects\CS\Projects\Error003Encryption\AES_Encryption\obj\Release\netstandard2.0\AES_Encryption.AssemblyInfo.cs
+F:\Projects\CS\Projects\Error003Encryption\AES_Encryption\obj\Release\netstandard2.0\AES_Encryption.csproj.CopyComplete
+F:\Projects\CS\Projects\Error003Encryption\AES_Encryption\obj\Release\netstandard2.0\AES_Encryption.dll
+F:\Projects\CS\Projects\Error003Encryption\AES_Encryption\obj\Release\netstandard2.0\AES_Encryption.pdb

@@ -1,0 +1,9 @@
+F:\Projects\C#\Projects\Stardew Valley\SimpleUtil\SimpleUtil\bin\Debug\SimpleUtil.dll
+F:\Projects\C#\Projects\Stardew Valley\SimpleUtil\SimpleUtil\bin\Debug\SimpleUtil.pdb
+F:\Projects\C#\Projects\Stardew Valley\SimpleUtil\SimpleUtil\obj\Debug\SimpleUtil.dll
+F:\Projects\C#\Projects\Stardew Valley\SimpleUtil\SimpleUtil\obj\Debug\SimpleUtil.pdb
+F:\Projects\CS\Projects\Stardew Valley\SimpleUtil\SimpleUtil\obj\Debug\SimpleUtil.csprojAssemblyReference.cache
+F:\Projects\CS\Projects\Stardew Valley\SimpleUtil\SimpleUtil\obj\Debug\SimpleUtil.dll
+F:\Projects\CS\Projects\Stardew Valley\SimpleUtil\SimpleUtil\obj\Debug\SimpleUtil.pdb
+F:\Projects\CS\Projects\Stardew Valley\SimpleUtil\SimpleUtil\bin\Debug\SimpleUtil.dll
+F:\Projects\CS\Projects\Stardew Valley\SimpleUtil\SimpleUtil\bin\Debug\SimpleUtil.pdb

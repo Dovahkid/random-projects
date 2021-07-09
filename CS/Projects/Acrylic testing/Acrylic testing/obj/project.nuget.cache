@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0Qgo0NKPjjjiAmzuQU5KYm6HAJk7+XcdHlVkX6s0sl6/KEjZWMamF/3WM2Vga+/ILgOjS9oHBWMjRSSa0uKSdA==",
+  "success": true,
+  "projectFilePath": "F:\\Projects\\CS\\Projects\\Acrylic testing\\Acrylic testing\\Acrylic testing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mikey\\.nuget\\packages\\fluentwpf\\0.8.0\\fluentwpf.0.8.0.nupkg.sha512",
+    "C:\\Users\\Mikey\\.nuget\\packages\\materialdesigncolors\\1.2.7\\materialdesigncolors.1.2.7.nupkg.sha512",
+    "C:\\Users\\Mikey\\.nuget\\packages\\materialdesignthemes\\3.2.0\\materialdesignthemes.3.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

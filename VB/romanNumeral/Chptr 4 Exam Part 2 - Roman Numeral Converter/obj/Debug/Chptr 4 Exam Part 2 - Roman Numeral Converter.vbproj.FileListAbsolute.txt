@@ -1,0 +1,12 @@
+G:\Documents\Projects\VB\romanNumeral\Chptr 4 Exam Part 2 - Roman Numeral Converter\bin\Debug\Chptr 4 Exam Part 2 - Roman Numeral Converter.exe.config
+G:\Documents\Projects\VB\romanNumeral\Chptr 4 Exam Part 2 - Roman Numeral Converter\bin\Debug\Chptr 4 Exam Part 2 - Roman Numeral Converter.exe
+G:\Documents\Projects\VB\romanNumeral\Chptr 4 Exam Part 2 - Roman Numeral Converter\bin\Debug\Chptr 4 Exam Part 2 - Roman Numeral Converter.pdb
+G:\Documents\Projects\VB\romanNumeral\Chptr 4 Exam Part 2 - Roman Numeral Converter\bin\Debug\Chptr 4 Exam Part 2 - Roman Numeral Converter.xml
+G:\Documents\Projects\VB\romanNumeral\Chptr 4 Exam Part 2 - Roman Numeral Converter\obj\Debug\Chptr 4 Exam Part 2 - Roman Numeral Converter.vbprojAssemblyReference.cache
+G:\Documents\Projects\VB\romanNumeral\Chptr 4 Exam Part 2 - Roman Numeral Converter\obj\Debug\Chptr_4_Exam_Part_2___Roman_Numeral_Converter.Form1.resources
+G:\Documents\Projects\VB\romanNumeral\Chptr 4 Exam Part 2 - Roman Numeral Converter\obj\Debug\Chptr_4_Exam_Part_2___Roman_Numeral_Converter.Resources.resources
+G:\Documents\Projects\VB\romanNumeral\Chptr 4 Exam Part 2 - Roman Numeral Converter\obj\Debug\Chptr 4 Exam Part 2 - Roman Numeral Converter.vbproj.GenerateResource.cache
+G:\Documents\Projects\VB\romanNumeral\Chptr 4 Exam Part 2 - Roman Numeral Converter\obj\Debug\Chptr 4 Exam Part 2 - Roman Numeral Converter.vbproj.CoreCompileInputs.cache
+G:\Documents\Projects\VB\romanNumeral\Chptr 4 Exam Part 2 - Roman Numeral Converter\obj\Debug\Chptr 4 Exam Part 2 - Roman Numeral Converter.exe
+G:\Documents\Projects\VB\romanNumeral\Chptr 4 Exam Part 2 - Roman Numeral Converter\obj\Debug\Chptr 4 Exam Part 2 - Roman Numeral Converter.xml
+G:\Documents\Projects\VB\romanNumeral\Chptr 4 Exam Part 2 - Roman Numeral Converter\obj\Debug\Chptr 4 Exam Part 2 - Roman Numeral Converter.pdb

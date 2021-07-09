@@ -1,0 +1,32 @@
+body{}
+
+div#msgArea{
+	
+	border-radius: 5px;
+	border-top: 2px solid rgb(0,100,255);
+	border-bottom: 2px solid rgb(0,100,255);
+	border-left: 2px solid rgb(0,100,255);
+	border-right: 2px solid rgb(0,100,255);
+	
+	width:40%;
+	
+	white-space: pre;
+	
+}
+
+div#inputBox{
+	
+	border-radius: 5px;
+	border-top: 2px solid rgb(0,0,0);
+	border-bottom: 2px solid rgb(0,0,0);
+	border-left: 2px solid rgb(0,0,0);
+	border-right: 2px solid rgb(0,0,0);
+	
+	width: 40%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	
+	/*text-align: center; */
+	
+	
+}

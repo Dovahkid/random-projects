@@ -1,0 +1,232 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+
+<link rel="shortcut icon" href="css.png">
+
+<title>CSS/HTML Practice</title>
+
+<!--This is internal styles. Internal styles styles every paragrpah on the page. The "p" can be switched out for any other html element-->
+<style>
+#internal {
+	color:orange;
+	background-color:grey;
+}
+</style>
+
+
+<!--This is external styling. The styling is stored in a seperated .css document-->
+<link rel="stylesheet" href="css.css">
+
+</head>
+<body>
+
+<!--This is inline styles. Inline styling styles a specific section--><h2 align="center"> CSS/HTML Practice </h2>
+
+<p id="internal"> This is a test for internal styling </p>
+<p id="internal"> This is also a test for internal styling </p>
+
+<!-- An ID style can only be applied once per page --><div id="test1">
+	<h3> Header test with external styling </h3>
+	<p> Paragraph test with external styling </p>
+</div>
+
+<div class="classTest1">
+	<h3> Header test with external styling 2 </h3>
+	<p class="classTest1"> Paragraph test with external styling 2 </p>
+</div>
+
+<!--  --><div class="classTest1">
+	<h3> Header test with external styling 2 v3 </h3>
+</div>
+
+<div id="test2">
+	<p class="test2"> This <b>bold</b> text is specifically being selected by the style </p>
+</div>
+
+<div id="size1">
+	<p> This text is small </p>
+</div>
+
+<div id="size2">
+	<p> This text is medium </p>
+</div>
+
+<div id="size3">
+	<p> This text is large </p>
+</div>
+
+<div id="size4">
+	<p> This text is Extra-Large </p>
+</div>
+
+<div  id="px30">
+	<p> This text size is determined with pixels (30px) </p>
+</div>
+
+<div  id="px5">
+	<p> This text size is determined with pixels (5px) </p>
+</div>
+
+<div class="italic">
+	<p> This sentence is italic </p>
+</div>
+
+<div id="oblique">
+	<p> This sentence is oblique </p>
+</div>
+
+<div id="lighter">
+	<p> This text is lighter </p>
+</div>
+
+<div id="bold">
+	<p> This text is bold </p>
+</div>
+
+<div id="bolder">
+	<p> This text is bolder </p>
+</div>
+
+<div id="weight">
+	<p> This text is 900 </p>
+</div>
+
+<div id="SmallCapsVariant">
+	<p> this text is small caps </p>
+</div>
+
+<div id="NormalVariant">
+	<p> This text is normal </p>
+</div>
+
+<p class="example1"> This text is just an example of using class to effect only specific elements </p>
+
+<p class="HEXexample1"> This text is colored with HEX values </p>
+
+<p class="RGBexample1"> This text is colored with RGB </p>
+
+<p class="left"> This text is aligned to the left with CSS </p>
+
+<p class="center"> This is aligned to the center with CSS </p>
+
+<p class="right"> This is aligned to the center with CSS </p>
+
+<table border="1px" cellpadding="2px" cellspacing="0px" style="height:75px;">
+	<tr>
+		<td class="top"> This is the top vertical alignement </td>
+		<td class="middle"> This is the middle vertical alignement </td>
+		<td class="bottom"> This is the bottom vertical alignement </td>
+	</tr>
+</table>
+
+<p> This is an example of <span class="baseline"> baseline </span> </p>
+<p> This is an example of <span class="sub"> sub </span> </p>
+<p> This is an example of <span class="super"> super </span> </p>
+<p> This is an example of <span class="NegativePixel"> pixel (-20px) </span> </p>
+<p> This is an example of <span class="PositivePixel"> pixel (+20px) </span> </p>
+
+<div class="DIV">
+	<div class="DIVMiddle">
+		<p>This is in the middle</p>
+	</div>
+</div>
+
+<p class="noDecor"> This has no decoration. NONE! </p>
+<p class="inherit"> This inherits the decor from the parent </p>
+<p class="overline"> This is overlined</p>
+<p class="underline"> This is underlined </p>
+<p class="line-through"> This has a line through it </p>
+<p class="underAndOver"> This text has both an underline, an overline, and a line through </p>
+
+<p class="indent"> This line is indented! Isnt that cool? Well... its probably not <span class="italics"> cool </span> but its like... a thing that can be done </p>
+
+<h1 class="shadow"> This text has a shadow </h1>
+<h1 class="shadow2"> This text has a blue shadow </h1>
+
+<p class="capital"> this css style makes certain text capitalized. In this case it makes every first letter of a word capitalized and ignores the rest </p>
+<p class="upper"> this makes every letter uppercase </p>
+<p class="lower"> THIS MAKES EVERY LETTER LOWERCASE </p>
+
+<p class="spacing"> Letter spacing </p>
+
+<p class="whitespace1"> Im too lazy to write a line that is longer than the width of my screen but if i wasnt that lazy then you would see that this sentence streches on past the screen untill a line 
+break is encountered. I am not going to copy this text to make sure it works  properly... Im too lazy to write a line that is longer than the width of my screen but if i wasnt that lazy then you 
+would see that this sentence streches on past the screen untill a line break is encountered. I am not going to copy this text to make sure it works  properly </p>
+
+<p class="whitespace2"> With pre-wrap the wrapping on the text will follow the same as the coding shows. 
+To properly show this im going to just write out this sentence explaining why im writing this sentence </p>
+
+<p class="solidborder"> This has a solid border </p>
+
+<p class="border2"> This has a dotted border </p>
+
+<p class="border3"> This has a dashed border </p>
+
+<p class="border4"> This has a double border </p>
+
+<p class="groove">This is a grooved border.</p>
+<p class="ridge">This is a ridged border.</p>
+<p class="inset">This is an inset border.</p>
+<p class="outset">This is an outset border.</p>
+<p class="hidden">This is a hidden border.</p>
+
+<div class="divBorder"> This box is 100x100px </div>
+
+<p class="border5"> The max height is 100px</p>
+<p class="border6"> The max width is 100px</p>
+<p class="border7"> The min height is 50px</p>
+<p class="border8"> The min width is 50px</p>
+
+<ol class="olStyle">
+	<li> Cool ordered list right?	</li>
+	<li> Yeah its totally cool </li>
+</ol>
+
+<ul class="ulStyle">
+	<li> Cool unordered list right?	</li>
+	<li> Yeah its totally cool </li>
+</ul>
+
+<ul class="imgStyle">
+	<li> Cool pictured unordered list right?	</li>
+	<li> Yeah its totally cool </li>
+</ul>
+
+<table class="tableStyling">
+	<tr>
+		<td> This is 1-1 </td>
+		<td> This is 1-2 </td>
+	</tr>
+	<tr>
+		<td> This is 2-1 </td>
+		<td> This is 2-2 </td>
+	</tr>
+</table>
+
+<br>
+
+<table class="tableCaption">
+<caption> This is a caption is on the top but it can be on the bottom </caption>
+	<tr>
+		<td> This is 1-1 </td>
+		<td> This is 1-2 </td>
+		<td> This is 1-3 </td>
+	</tr>
+	<tr>
+		<td> This is 2-1 </td>
+		<td> This is 2-2 </td>
+		<td></td>
+	</tr>
+</table>
+
+<table class="tablefixed">
+	<tr>
+		<td width="10%"> 500000000000 </td>
+		<td width="90%"> 20 </td>
+		<td></td>
+	</tr>
+</table>
+
+</body>
+</html>

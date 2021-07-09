@@ -1,0 +1,12 @@
+D:\Documents\Projects\VB\currency_converter\currency_converter\bin\Debug\currency_converter.exe.config
+D:\Documents\Projects\VB\currency_converter\currency_converter\bin\Debug\currency_converter.exe
+D:\Documents\Projects\VB\currency_converter\currency_converter\bin\Debug\currency_converter.pdb
+D:\Documents\Projects\VB\currency_converter\currency_converter\bin\Debug\currency_converter.xml
+D:\Documents\Projects\VB\currency_converter\currency_converter\obj\Debug\currency_converter.vbprojAssemblyReference.cache
+D:\Documents\Projects\VB\currency_converter\currency_converter\obj\Debug\currency_converter.Form1.resources
+D:\Documents\Projects\VB\currency_converter\currency_converter\obj\Debug\currency_converter.Resources.resources
+D:\Documents\Projects\VB\currency_converter\currency_converter\obj\Debug\currency_converter.vbproj.GenerateResource.cache
+D:\Documents\Projects\VB\currency_converter\currency_converter\obj\Debug\currency_converter.vbproj.CoreCompileInputs.cache
+D:\Documents\Projects\VB\currency_converter\currency_converter\obj\Debug\currency_converter.exe
+D:\Documents\Projects\VB\currency_converter\currency_converter\obj\Debug\currency_converter.xml
+D:\Documents\Projects\VB\currency_converter\currency_converter\obj\Debug\currency_converter.pdb

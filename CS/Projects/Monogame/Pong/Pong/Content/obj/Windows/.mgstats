@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"F:/Projects/CS/Projects/Pong/Pong/Content/paddle.png","F:/Projects/CS/Projects/Pong/Pong/Content/bin/Windows/paddle.xnb","TextureProcessor","Texture2DContent",149,2085,0.2278554
+"F:/Projects/CS/Projects/Pong/Pong/Content/pongBall.png","F:/Projects/CS/Projects/Pong/Pong/Content/bin/Windows/pongBall.xnb","TextureProcessor","Texture2DContent",131,485,0.0859786

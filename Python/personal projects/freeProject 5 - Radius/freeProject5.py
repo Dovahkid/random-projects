@@ -1,0 +1,5 @@
+pi = float(3.14159265359)
+r = float(input("What is the radius?: "))
+cir = float(2.0 * pi * r)
+print("The circumference is ~{:3.3}".format(cir))
+input()

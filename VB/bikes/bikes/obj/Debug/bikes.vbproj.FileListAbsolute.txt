@@ -1,0 +1,12 @@
+D:\Documents\Projects\VB\bikes\bikes\bin\Debug\bikes.exe.config
+D:\Documents\Projects\VB\bikes\bikes\bin\Debug\bikes.exe
+D:\Documents\Projects\VB\bikes\bikes\bin\Debug\bikes.pdb
+D:\Documents\Projects\VB\bikes\bikes\bin\Debug\bikes.xml
+D:\Documents\Projects\VB\bikes\bikes\obj\Debug\bikes.vbprojAssemblyReference.cache
+D:\Documents\Projects\VB\bikes\bikes\obj\Debug\bikes.Form1.resources
+D:\Documents\Projects\VB\bikes\bikes\obj\Debug\bikes.Resources.resources
+D:\Documents\Projects\VB\bikes\bikes\obj\Debug\bikes.vbproj.GenerateResource.cache
+D:\Documents\Projects\VB\bikes\bikes\obj\Debug\bikes.vbproj.CoreCompileInputs.cache
+D:\Documents\Projects\VB\bikes\bikes\obj\Debug\bikes.exe
+D:\Documents\Projects\VB\bikes\bikes\obj\Debug\bikes.xml
+D:\Documents\Projects\VB\bikes\bikes\obj\Debug\bikes.pdb

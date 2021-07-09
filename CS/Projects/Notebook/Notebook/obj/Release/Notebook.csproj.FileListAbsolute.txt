@@ -1,0 +1,10 @@
+F:\Projects\CS\Projects\Notebook\Notebook\bin\Release\Notebook.exe.config
+F:\Projects\CS\Projects\Notebook\Notebook\bin\Release\Notebook.exe
+F:\Projects\CS\Projects\Notebook\Notebook\bin\Release\Notebook.pdb
+F:\Projects\CS\Projects\Notebook\Notebook\obj\Release\Notebook.mainForm.resources
+F:\Projects\CS\Projects\Notebook\Notebook\obj\Release\Notebook.newFileEntry.resources
+F:\Projects\CS\Projects\Notebook\Notebook\obj\Release\Notebook.Properties.Resources.resources
+F:\Projects\CS\Projects\Notebook\Notebook\obj\Release\Notebook.csproj.GenerateResource.cache
+F:\Projects\CS\Projects\Notebook\Notebook\obj\Release\Notebook.csproj.CoreCompileInputs.cache
+F:\Projects\CS\Projects\Notebook\Notebook\obj\Release\Notebook.exe
+F:\Projects\CS\Projects\Notebook\Notebook\obj\Release\Notebook.pdb

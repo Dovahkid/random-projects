@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "roXwE3XkvkvjnOMkn1BOdo/Pu7m6ZPNdB1mtF8tqP5yFOc+lba7tLcvYnhsn8mtfLpyJE++gA0wxUwoQn9f4Cw==",
+  "success": true,
+  "projectFilePath": "F:\\Projects\\CS\\Projects\\CS and Python\\CS And Python\\CS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mikey\\.nuget\\packages\\dynamiclanguageruntime\\1.2.3\\dynamiclanguageruntime.1.2.3.nupkg.sha512",
+    "C:\\Users\\Mikey\\.nuget\\packages\\ironpython\\2.7.10\\ironpython.2.7.10.nupkg.sha512",
+    "C:\\Users\\Mikey\\.nuget\\packages\\ironpython.stdlib\\2.7.10\\ironpython.stdlib.2.7.10.nupkg.sha512",
+    "C:\\Users\\Mikey\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Mikey\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\Mikey\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Mikey\\.nuget\\packages\\system.codedom\\4.7.0\\system.codedom.4.7.0.nupkg.sha512",
+    "C:\\Users\\Mikey\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
+    "C:\\Users\\Mikey\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\Mikey\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\Mikey\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.7.0\\system.security.cryptography.protecteddata.4.7.0.nupkg.sha512",
+    "C:\\Users\\Mikey\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
+    "C:\\Users\\Mikey\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\Mikey\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

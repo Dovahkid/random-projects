@@ -1,0 +1,11 @@
+G:\Documents\Projects\VB\test 2 part 2\test 2\obj\Debug\test_2.Form1.resources
+G:\Documents\Projects\VB\test 2 part 2\test 2\obj\Debug\test_2.Resources.resources
+G:\Documents\Projects\VB\test 2 part 2\test 2\obj\Debug\test 2.vbproj.GenerateResource.cache
+G:\Documents\Projects\VB\test 2 part 2\test 2\obj\Debug\test 2.vbproj.CoreCompileInputs.cache
+G:\Documents\Projects\VB\test 2 part 2\test 2\bin\Debug\test 2.exe.config
+G:\Documents\Projects\VB\test 2 part 2\test 2\bin\Debug\test 2.exe
+G:\Documents\Projects\VB\test 2 part 2\test 2\bin\Debug\test 2.pdb
+G:\Documents\Projects\VB\test 2 part 2\test 2\bin\Debug\test 2.xml
+G:\Documents\Projects\VB\test 2 part 2\test 2\obj\Debug\test 2.exe
+G:\Documents\Projects\VB\test 2 part 2\test 2\obj\Debug\test 2.xml
+G:\Documents\Projects\VB\test 2 part 2\test 2\obj\Debug\test 2.pdb

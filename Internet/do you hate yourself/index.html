@@ -1,0 +1,31 @@
+<html>
+<head>
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+  <link href="stylesheet.css" rel="stylesheet">
+  <script src="scripts.js"></script>
+
+  <title>Do You hate Yourself?</title>
+
+</head>
+<body>
+
+<p id="questionPara">Do you hate yourself<span onclick="me()" id="queMark">?</span></p>
+
+<form target="_self" class="formStyle">
+
+  <input type="radio" name="isHate"
+        value="yes" id="isHateYes"
+            onclick="erasePlease()">Yes</input>
+
+  <br>
+
+  <input type="radio" name="isHate"
+        value="no" id="isHateNo"
+            onclick="erasePlease()">No</input>
+</form>
+
+<p id="pleaseSelect"> </p>
+<p><span id="customButton" onclick="hate(1)">Tell the Truth</span></p>
+
+</body>
+</html>

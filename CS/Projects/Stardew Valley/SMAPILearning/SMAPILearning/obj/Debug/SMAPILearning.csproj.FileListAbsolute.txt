@@ -1,0 +1,5 @@
+F:\Projects\C#\Projects\Stardew Valley\SMAPILearning\SMAPILearning\bin\Debug\SMAPILearning.dll
+F:\Projects\C#\Projects\Stardew Valley\SMAPILearning\SMAPILearning\bin\Debug\SMAPILearning.pdb
+F:\Projects\C#\Projects\Stardew Valley\SMAPILearning\SMAPILearning\obj\Debug\SMAPILearning.csprojAssemblyReference.cache
+F:\Projects\C#\Projects\Stardew Valley\SMAPILearning\SMAPILearning\obj\Debug\SMAPILearning.dll
+F:\Projects\C#\Projects\Stardew Valley\SMAPILearning\SMAPILearning\obj\Debug\SMAPILearning.pdb

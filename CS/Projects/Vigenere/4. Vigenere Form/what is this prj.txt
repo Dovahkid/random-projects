@@ -1,0 +1,1 @@
+This project was creating the GUI for the vigenere cipher and using the previously created DLL for logic

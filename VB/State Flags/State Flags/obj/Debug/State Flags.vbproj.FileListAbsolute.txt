@@ -1,0 +1,24 @@
+D:\Documents\Projects\VB\State Flags\State Flags\bin\Debug\State Flags.exe.config
+D:\Documents\Projects\VB\State Flags\State Flags\bin\Debug\State Flags.exe
+D:\Documents\Projects\VB\State Flags\State Flags\bin\Debug\State Flags.pdb
+D:\Documents\Projects\VB\State Flags\State Flags\bin\Debug\State Flags.xml
+D:\Documents\Projects\VB\State Flags\State Flags\obj\Debug\State Flags.vbprojAssemblyReference.cache
+D:\Documents\Projects\VB\State Flags\State Flags\obj\Debug\State_Flags.Form1.resources
+D:\Documents\Projects\VB\State Flags\State Flags\obj\Debug\State_Flags.Resources.resources
+D:\Documents\Projects\VB\State Flags\State Flags\obj\Debug\State Flags.vbproj.GenerateResource.cache
+D:\Documents\Projects\VB\State Flags\State Flags\obj\Debug\State Flags.vbproj.CoreCompileInputs.cache
+D:\Documents\Projects\VB\State Flags\State Flags\obj\Debug\State Flags.exe
+D:\Documents\Projects\VB\State Flags\State Flags\obj\Debug\State Flags.xml
+D:\Documents\Projects\VB\State Flags\State Flags\obj\Debug\State Flags.pdb
+G:\Documents\Projects\VB\State Flags\State Flags\bin\Debug\State Flags.exe.config
+G:\Documents\Projects\VB\State Flags\State Flags\bin\Debug\State Flags.exe
+G:\Documents\Projects\VB\State Flags\State Flags\bin\Debug\State Flags.pdb
+G:\Documents\Projects\VB\State Flags\State Flags\bin\Debug\State Flags.xml
+G:\Documents\Projects\VB\State Flags\State Flags\obj\Debug\State Flags.vbprojAssemblyReference.cache
+G:\Documents\Projects\VB\State Flags\State Flags\obj\Debug\State_Flags.Form1.resources
+G:\Documents\Projects\VB\State Flags\State Flags\obj\Debug\State_Flags.Resources.resources
+G:\Documents\Projects\VB\State Flags\State Flags\obj\Debug\State Flags.vbproj.GenerateResource.cache
+G:\Documents\Projects\VB\State Flags\State Flags\obj\Debug\State Flags.vbproj.CoreCompileInputs.cache
+G:\Documents\Projects\VB\State Flags\State Flags\obj\Debug\State Flags.exe
+G:\Documents\Projects\VB\State Flags\State Flags\obj\Debug\State Flags.xml
+G:\Documents\Projects\VB\State Flags\State Flags\obj\Debug\State Flags.pdb

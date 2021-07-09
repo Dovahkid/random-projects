@@ -1,0 +1,12 @@
+G:\Documents\Projects\VB\Exam 3 BMI - Michael Gain\Exam 3 BMI - Michael Gain\bin\Debug\Exam 3 BMI - Michael Gain.exe.config
+G:\Documents\Projects\VB\Exam 3 BMI - Michael Gain\Exam 3 BMI - Michael Gain\bin\Debug\Exam 3 BMI - Michael Gain.exe
+G:\Documents\Projects\VB\Exam 3 BMI - Michael Gain\Exam 3 BMI - Michael Gain\bin\Debug\Exam 3 BMI - Michael Gain.pdb
+G:\Documents\Projects\VB\Exam 3 BMI - Michael Gain\Exam 3 BMI - Michael Gain\bin\Debug\Exam 3 BMI - Michael Gain.xml
+G:\Documents\Projects\VB\Exam 3 BMI - Michael Gain\Exam 3 BMI - Michael Gain\obj\Debug\Exam 3 BMI - Michael Gain.vbprojAssemblyReference.cache
+G:\Documents\Projects\VB\Exam 3 BMI - Michael Gain\Exam 3 BMI - Michael Gain\obj\Debug\Exam_3_BMI___Michael_Gain.Form1.resources
+G:\Documents\Projects\VB\Exam 3 BMI - Michael Gain\Exam 3 BMI - Michael Gain\obj\Debug\Exam_3_BMI___Michael_Gain.Resources.resources
+G:\Documents\Projects\VB\Exam 3 BMI - Michael Gain\Exam 3 BMI - Michael Gain\obj\Debug\Exam 3 BMI - Michael Gain.vbproj.GenerateResource.cache
+G:\Documents\Projects\VB\Exam 3 BMI - Michael Gain\Exam 3 BMI - Michael Gain\obj\Debug\Exam 3 BMI - Michael Gain.vbproj.CoreCompileInputs.cache
+G:\Documents\Projects\VB\Exam 3 BMI - Michael Gain\Exam 3 BMI - Michael Gain\obj\Debug\Exam 3 BMI - Michael Gain.exe
+G:\Documents\Projects\VB\Exam 3 BMI - Michael Gain\Exam 3 BMI - Michael Gain\obj\Debug\Exam 3 BMI - Michael Gain.xml
+G:\Documents\Projects\VB\Exam 3 BMI - Michael Gain\Exam 3 BMI - Michael Gain\obj\Debug\Exam 3 BMI - Michael Gain.pdb

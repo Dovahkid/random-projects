@@ -1,0 +1,496 @@
+/* p {
+	color:limegreen;
+	background-color:grey;
+	font-size:200%;
+	
+}
+*/
+#test1 {
+	
+	color:red;
+	background-color:black;
+	font-size:130%;
+	
+}
+
+.classTest1 {
+	
+	color:lightblue;
+	background-color:grey;
+	font-size:140%;
+	
+}
+
+#test2 .test2  b {
+	
+	color:brightgreen;
+	background-color:grey;
+	font-size:130%;
+	font-family:"trebuchet ms";
+	
+}
+
+h2 {
+	
+	color:blue;
+	background-color:grey;
+	font-Family:"comic sans ms";
+	
+}
+
+p {
+	
+	font-family:"times new roman";
+	
+}
+
+/*
+
+By  putting a comma after a font family name and putting a second font family name will tell the browser to use that font if the previous one is unavailable
+
+font-family:"times new roman", "comic sans";
+
+*/
+
+#size1 {
+	
+	font-size:small;
+	
+}
+
+#size2 {
+	
+	font-size:medium;
+	
+}
+
+#size3 {
+	
+	font-size:large;
+	
+}
+
+#size4 {
+	
+	font-size:x-large;
+	
+}
+
+#px30 {
+	
+	font-size:30px;
+	
+}
+
+#px5 {
+	
+	font-size:5px;
+	
+}
+
+.italic {
+	
+	font-size:20px;
+	font-style:italic;
+	
+}
+
+#oblique {
+	
+	font-size:20px;
+	font-style:oblique;
+	
+}
+
+#lighter {
+	
+	font-weight:lighter;
+	
+}
+
+#bold {
+	
+	font-weight:bold;
+	
+}
+
+#bolder {
+	
+	font-weight:bolder;
+	
+}
+
+#weight { /*This can be 100-900*/
+	
+	font-weight:900;
+	
+}
+
+#SmallCapsVariant {
+	
+	font-variant:small-caps;
+	
+}
+
+#NormalVariant {
+	
+	font-variant:normal;
+	
+}
+
+p.example1 {
+	
+	color:lightblue;
+	background-color:red;
+	
+}
+
+p.HEXexample1 {
+	
+	color:lightblue;
+	background-color:#9932CC;
+	
+}
+
+p.RGBexample1 {
+	
+	color:lightblue;
+	background-color:rgb(127,0,255);
+	
+}
+
+p.left {
+	
+	text-align:left;
+	
+}
+
+p.center {
+	
+	text-align:center;
+	
+}
+
+p.right {
+	
+	text-align:right;
+
+}
+
+td.top {
+	
+	vertical-align:top;
+	
+}
+
+td.middle {
+	
+	vertical-align:middle;
+	
+}
+
+td.bottom {
+	
+	vertical-align:bottom;
+	
+}
+
+span.baseline {
+	
+	vertical-align:baseline;
+	
+}
+
+span.sub {
+	
+	vertical-align:sub;
+	
+}
+
+span.super {
+	
+	vertical-align:super;
+	
+}
+
+span.NegativePixel {
+	
+	vertical-align:-20px;
+	
+}
+
+span.PositivePixel {
+	
+	vertical-align:+20px; /*pt, cm, and % can be used instead of px*/
+	
+}
+
+.DIV {
+	
+	height:200px; width:200px;
+	background-color:rgb(0,190,255);
+	display:inline-table;
+	
+}
+
+.DIVMiddle {
+	
+	display:table-cell;
+	vertical-align:middle;
+	text-align:center;
+	
+}
+
+.noDecor {
+	
+	text-decoration:none;
+	
+}
+
+.inherit {
+	
+	text-decoration:inherit;
+	
+}
+
+.overline {
+	
+	text-decoration:overline;
+	
+}
+
+.underline {
+	
+	text-decoration:overline;
+	
+}
+
+.line-through {
+	
+	text-decoration:line-through;
+	
+}
+
+.underAndOver {
+	
+	text-decoration:overline underline line-through;
+	
+}
+
+.italics {
+	
+	font-style:italic;
+	
+}
+
+.indent {
+	
+	text-indent:40px; /*Negativ values are also valid*/
+	
+}
+
+.shadow {
+	
+	text-shadow:5px 2px 4px grey; /*x location, y location, blur, color*/
+	
+}
+
+.shadow2 {
+	
+	text-shadow:0px -2px 4px rgb(0,255,255);
+	
+}
+
+.capital {
+	
+	text-transform:capitalize;
+	
+}
+
+.upper {
+	
+	text-transform:uppercase;
+	
+}
+
+.lower {
+	
+	text-transform:lowercase;
+	
+}
+
+.spacing {
+	
+	letter-spacing:6px; /*This value can be negative*/
+	
+}
+
+.whitespace1 {
+	
+	white-space:nowrap;
+	
+}
+
+.whitespace2 {
+	
+	white-space:pre-wrap;
+	
+} /*Other white-space methods
+
+	pre - text will only wrap on line breaks and white space
+	pre-line - text will wrap where there is a break in code, but extra white space is still ignored
+	pre-wrap - text will wrap when necessary, and on line breaks
+*/
+
+.solidborder {
+	
+	padding:2px;
+	border:4px solid rgb(0,175,255); /*border style can be set independently*/
+	
+}
+
+.border2 {
+	
+	padding:2px;
+	border-width:3px;
+	border-style:dotted;
+	border-color:rgb(170,0,255);
+	
+}
+
+.border3 {
+	
+	padding:2px;
+	border-width:3px;
+	border-style:dashed;
+	border-color:rgb(0,127,127);
+	
+}
+
+.border4 {
+	
+	padding:2px;
+	border-width:3px;
+	border-style:double;
+	border-color:rgb(0,25,255);
+	
+}
+
+p.groove {border-style: groove;}
+p.ridge {border-style: ridge;}
+p.inset {border-style: inset;}
+p.outset {border-style: outset;}
+p.hidden {border-style: hidden;}
+
+/*
+	In CSS, it is possible to specify different borders for different sides, using the following properties: 
+	border-top-style, 
+	border-right-style, 
+	border-bottom-style, 
+	and border-left-style for the corresponding sides.
+*/
+
+.divBorder {
+	
+	border:10px solid rgb(255,0,100); 
+	height:80px; /*% can be used instead of pixels*/
+	width:80px;
+	
+}
+
+.border5 {
+	
+	border:5px solid blue;
+	max-height:100px;
+	
+}
+
+.border6 {
+	
+	border:5px solid lightgreen;
+	max-width:100px;
+
+	
+}
+
+.border7 {
+	
+	border:5px solid blue;
+	min-height:50px;
+	
+}
+
+.border8 {
+	
+	border:5px solid lightgreen;
+	min-width:50px;
+
+	
+}
+
+body {
+	
+	f-color:rgb(0,200,255);
+	
+}
+body {
+   background-image: url("css.png");
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+}
+
+.olStyle {
+	
+	list-style-type:lower-alpha;/*more types:decimal, upper-alpha*/
+	
+}
+
+.ulStyle {
+	
+	list-style-type:square;/*more types: disc, circle*/
+	
+}
+
+.imgStyle {
+	
+	list-style-image:url(css2.png);
+	list-style-position:inside;
+}
+
+.tableStyling {
+	
+	border-collapse:seperate;
+	border-spacing:10px 10px;
+	border:2px solid grey;
+	
+}
+
+.tableCaption {
+	
+	empty-cells:hide;
+	caption-side:top;
+	border:2px solid grey;
+	
+}
+
+
+table {
+	
+	border-collapse:seperate;
+	
+	border:2px solid grey;
+	
+}
+
+td {
+	
+	
+	border:2px solid grey;
+	
+}
+
+.tablefixed {
+	
+	table-layout:fixed;
+	
+}

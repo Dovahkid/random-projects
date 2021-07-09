@@ -1,0 +1,24 @@
+Must have mechanics -
+    Save system
+    10 zones
+    Character creator (Name, race, gender)
+    Inventory
+    Death
+    Health
+    Stamina
+    Magicka
+    Magic (attacks)
+    Multiple Weapon types
+    Multiple choices and different outcomes based on choices
+    Skill trees
+    Random battle encounters
+
+
+Wanted, but difficult, features -
+    Companions
+    Local CO-OP multiplayer
+    Local PvP multiplayer
+
+
+Story -
+    Evil wizard guy is evil

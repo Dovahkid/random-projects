@@ -1,0 +1,12 @@
+G:\Documents\Projects\VB\joesautomotive\joesautomotive\bin\Debug\joesautomotive.exe.config
+G:\Documents\Projects\VB\joesautomotive\joesautomotive\bin\Debug\joesautomotive.exe
+G:\Documents\Projects\VB\joesautomotive\joesautomotive\bin\Debug\joesautomotive.pdb
+G:\Documents\Projects\VB\joesautomotive\joesautomotive\bin\Debug\joesautomotive.xml
+G:\Documents\Projects\VB\joesautomotive\joesautomotive\obj\Debug\joesautomotive.vbprojAssemblyReference.cache
+G:\Documents\Projects\VB\joesautomotive\joesautomotive\obj\Debug\joesautomotive.Form1.resources
+G:\Documents\Projects\VB\joesautomotive\joesautomotive\obj\Debug\joesautomotive.Resources.resources
+G:\Documents\Projects\VB\joesautomotive\joesautomotive\obj\Debug\joesautomotive.vbproj.GenerateResource.cache
+G:\Documents\Projects\VB\joesautomotive\joesautomotive\obj\Debug\joesautomotive.vbproj.CoreCompileInputs.cache
+G:\Documents\Projects\VB\joesautomotive\joesautomotive\obj\Debug\joesautomotive.exe
+G:\Documents\Projects\VB\joesautomotive\joesautomotive\obj\Debug\joesautomotive.xml
+G:\Documents\Projects\VB\joesautomotive\joesautomotive\obj\Debug\joesautomotive.pdb

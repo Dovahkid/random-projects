@@ -1,0 +1,12 @@
+D:\Documents\Projects\VB\Theater Revenue\Theater Revenue\bin\Debug\Theater Revenue.exe.config
+D:\Documents\Projects\VB\Theater Revenue\Theater Revenue\bin\Debug\Theater Revenue.exe
+D:\Documents\Projects\VB\Theater Revenue\Theater Revenue\bin\Debug\Theater Revenue.pdb
+D:\Documents\Projects\VB\Theater Revenue\Theater Revenue\bin\Debug\Theater Revenue.xml
+D:\Documents\Projects\VB\Theater Revenue\Theater Revenue\obj\Debug\Theater Revenue.vbprojAssemblyReference.cache
+D:\Documents\Projects\VB\Theater Revenue\Theater Revenue\obj\Debug\Theater_Revenue.Form1.resources
+D:\Documents\Projects\VB\Theater Revenue\Theater Revenue\obj\Debug\Theater_Revenue.Resources.resources
+D:\Documents\Projects\VB\Theater Revenue\Theater Revenue\obj\Debug\Theater Revenue.vbproj.GenerateResource.cache
+D:\Documents\Projects\VB\Theater Revenue\Theater Revenue\obj\Debug\Theater Revenue.vbproj.CoreCompileInputs.cache
+D:\Documents\Projects\VB\Theater Revenue\Theater Revenue\obj\Debug\Theater Revenue.exe
+D:\Documents\Projects\VB\Theater Revenue\Theater Revenue\obj\Debug\Theater Revenue.xml
+D:\Documents\Projects\VB\Theater Revenue\Theater Revenue\obj\Debug\Theater Revenue.pdb

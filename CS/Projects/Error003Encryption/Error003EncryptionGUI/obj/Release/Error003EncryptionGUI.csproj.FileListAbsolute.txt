@@ -1,0 +1,14 @@
+F:\Projects\CS\Projects\Error003Encryption\Error003EncryptionGUI\bin\Release\Error003EncryptionGUI.exe.config
+F:\Projects\CS\Projects\Error003Encryption\Error003EncryptionGUI\bin\Release\Error003EncryptionGUI.exe
+F:\Projects\CS\Projects\Error003Encryption\Error003EncryptionGUI\bin\Release\Error003EncryptionGUI.pdb
+F:\Projects\CS\Projects\Error003Encryption\Error003EncryptionGUI\obj\Release\Error003EncryptionGUI.csprojAssemblyReference.cache
+F:\Projects\CS\Projects\Error003Encryption\Error003EncryptionGUI\obj\Release\Error003EncryptionGUI.Properties.Resources.resources
+F:\Projects\CS\Projects\Error003Encryption\Error003EncryptionGUI\obj\Release\Error003EncryptionGUI.csproj.GenerateResource.cache
+F:\Projects\CS\Projects\Error003Encryption\Error003EncryptionGUI\obj\Release\Error003EncryptionGUI.csproj.CoreCompileInputs.cache
+F:\Projects\CS\Projects\Error003Encryption\Error003EncryptionGUI\obj\Release\Error003EncryptionGUI.exe
+F:\Projects\CS\Projects\Error003Encryption\Error003EncryptionGUI\obj\Release\Error003EncryptionGUI.pdb
+F:\Projects\CS\Projects\Error003Encryption\Error003EncryptionGUI\bin\Release\Error003AddonManager.dll
+F:\Projects\CS\Projects\Error003Encryption\Error003EncryptionGUI\bin\Release\Error003Encryption.SDK.dll
+F:\Projects\CS\Projects\Error003Encryption\Error003EncryptionGUI\bin\Release\Error003AddonManager.pdb
+F:\Projects\CS\Projects\Error003Encryption\Error003EncryptionGUI\bin\Release\Error003Encryption.SDK.pdb
+F:\Projects\CS\Projects\Error003Encryption\Error003EncryptionGUI\obj\Release\Error003EncryptionGUI.csproj.CopyComplete

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PrimeFactors:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PrimeFactors_jar</output-path>
+    <root id="archive" name="PrimeFactors.jar">
+      <element id="module-output" name="PrimeFactors" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,7 @@
+D:\Documents\Projects\C#\formatting strings\formatting strings\bin\Debug\formatting strings.exe.config
+D:\Documents\Projects\C#\formatting strings\formatting strings\bin\Debug\formatting strings.exe
+D:\Documents\Projects\C#\formatting strings\formatting strings\bin\Debug\formatting strings.pdb
+D:\Documents\Projects\C#\formatting strings\formatting strings\obj\Debug\formatting strings.csproj.CoreCompileInputs.cache
+D:\Documents\Projects\C#\formatting strings\formatting strings\obj\Debug\formatting strings.exe
+D:\Documents\Projects\C#\formatting strings\formatting strings\obj\Debug\formatting strings.pdb
+D:\Documents\Projects\C#\formatting strings\formatting strings\obj\Debug\formatting strings.csprojAssemblyReference.cache

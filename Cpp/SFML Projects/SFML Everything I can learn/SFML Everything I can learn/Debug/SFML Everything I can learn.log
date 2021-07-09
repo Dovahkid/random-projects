@@ -1,0 +1,10 @@
+﻿  main.cpp
+main.obj : error LNK2019: unresolved external symbol "public: __thiscall sf::String::String(char const *,class std::locale const &)" (??0String@sf@@QAE@PBDABVlocale@std@@@Z) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "public: __thiscall sf::VideoMode::VideoMode(unsigned int,unsigned int,unsigned int)" (??0VideoMode@sf@@QAE@III@Z) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "public: __thiscall sf::Window::Window(class sf::VideoMode,class sf::String const &,unsigned int,struct sf::ContextSettings const &)" (??0Window@sf@@QAE@VVideoMode@1@ABVString@1@IABUContextSettings@1@@Z) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "public: virtual __thiscall sf::Window::~Window(void)" (??1Window@sf@@UAE@XZ) referenced in function _main
+D:\SFML-2.5.1\lib\sfml-graphics-s-d.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+D:\SFML-2.5.1\lib\sfml-window-s-d.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+D:\SFML-2.5.1\lib\sfml-system-s-d.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+D:\SFML-2.5.1\lib\freetype.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+D:\SFML Projects\SFML Everything I can learn\Debug\SFML Everything I can learn.exe : fatal error LNK1120: 4 unresolved externals

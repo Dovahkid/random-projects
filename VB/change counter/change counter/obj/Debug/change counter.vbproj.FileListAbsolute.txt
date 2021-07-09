@@ -1,0 +1,12 @@
+D:\Documents\Projects\VB\change counter\change counter\bin\Debug\change counter.exe.config
+D:\Documents\Projects\VB\change counter\change counter\bin\Debug\change counter.exe
+D:\Documents\Projects\VB\change counter\change counter\bin\Debug\change counter.pdb
+D:\Documents\Projects\VB\change counter\change counter\bin\Debug\change counter.xml
+D:\Documents\Projects\VB\change counter\change counter\obj\Debug\change counter.vbprojAssemblyReference.cache
+D:\Documents\Projects\VB\change counter\change counter\obj\Debug\change_counter.Form1.resources
+D:\Documents\Projects\VB\change counter\change counter\obj\Debug\change_counter.Resources.resources
+D:\Documents\Projects\VB\change counter\change counter\obj\Debug\change counter.vbproj.GenerateResource.cache
+D:\Documents\Projects\VB\change counter\change counter\obj\Debug\change counter.vbproj.CoreCompileInputs.cache
+D:\Documents\Projects\VB\change counter\change counter\obj\Debug\change counter.exe
+D:\Documents\Projects\VB\change counter\change counter\obj\Debug\change counter.xml
+D:\Documents\Projects\VB\change counter\change counter\obj\Debug\change counter.pdb

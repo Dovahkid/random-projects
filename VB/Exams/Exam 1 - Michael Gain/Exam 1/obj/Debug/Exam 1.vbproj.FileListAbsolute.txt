@@ -1,0 +1,12 @@
+D:\Documents\Projects\VB\Exams\Exam 1\Exam 1\bin\Debug\Exam 1.exe.config
+D:\Documents\Projects\VB\Exams\Exam 1\Exam 1\bin\Debug\Exam 1.exe
+D:\Documents\Projects\VB\Exams\Exam 1\Exam 1\bin\Debug\Exam 1.pdb
+D:\Documents\Projects\VB\Exams\Exam 1\Exam 1\bin\Debug\Exam 1.xml
+D:\Documents\Projects\VB\Exams\Exam 1\Exam 1\obj\Debug\Exam 1.vbprojAssemblyReference.cache
+D:\Documents\Projects\VB\Exams\Exam 1\Exam 1\obj\Debug\Exam_1.Form1.resources
+D:\Documents\Projects\VB\Exams\Exam 1\Exam 1\obj\Debug\Exam_1.Resources.resources
+D:\Documents\Projects\VB\Exams\Exam 1\Exam 1\obj\Debug\Exam 1.vbproj.GenerateResource.cache
+D:\Documents\Projects\VB\Exams\Exam 1\Exam 1\obj\Debug\Exam 1.vbproj.CoreCompileInputs.cache
+D:\Documents\Projects\VB\Exams\Exam 1\Exam 1\obj\Debug\Exam 1.exe
+D:\Documents\Projects\VB\Exams\Exam 1\Exam 1\obj\Debug\Exam 1.xml
+D:\Documents\Projects\VB\Exams\Exam 1\Exam 1\obj\Debug\Exam 1.pdb

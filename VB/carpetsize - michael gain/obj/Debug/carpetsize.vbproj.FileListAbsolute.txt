@@ -1,0 +1,36 @@
+D:\Documents\Projects\VB\week 1 program\carpetsize\bin\Debug\carpetsize.exe.config
+D:\Documents\Projects\VB\week 1 program\carpetsize\bin\Debug\carpetsize.exe
+D:\Documents\Projects\VB\week 1 program\carpetsize\bin\Debug\carpetsize.pdb
+D:\Documents\Projects\VB\week 1 program\carpetsize\bin\Debug\carpetsize.xml
+D:\Documents\Projects\VB\week 1 program\carpetsize\obj\Debug\carpetsize.vbprojAssemblyReference.cache
+D:\Documents\Projects\VB\week 1 program\carpetsize\obj\Debug\carpetsize.Form1.resources
+D:\Documents\Projects\VB\week 1 program\carpetsize\obj\Debug\carpetsize.Resources.resources
+D:\Documents\Projects\VB\week 1 program\carpetsize\obj\Debug\carpetsize.vbproj.GenerateResource.cache
+D:\Documents\Projects\VB\week 1 program\carpetsize\obj\Debug\carpetsize.vbproj.CoreCompileInputs.cache
+D:\Documents\Projects\VB\week 1 program\carpetsize\obj\Debug\carpetsize.exe
+D:\Documents\Projects\VB\week 1 program\carpetsize\obj\Debug\carpetsize.xml
+D:\Documents\Projects\VB\week 1 program\carpetsize\obj\Debug\carpetsize.pdb
+D:\Documents\Projects\VB\carpetsize\bin\Debug\carpetsize.exe.config
+D:\Documents\Projects\VB\carpetsize\bin\Debug\carpetsize.exe
+D:\Documents\Projects\VB\carpetsize\bin\Debug\carpetsize.pdb
+D:\Documents\Projects\VB\carpetsize\bin\Debug\carpetsize.xml
+D:\Documents\Projects\VB\carpetsize\obj\Debug\carpetsize.vbprojAssemblyReference.cache
+D:\Documents\Projects\VB\carpetsize\obj\Debug\carpetsize.Form1.resources
+D:\Documents\Projects\VB\carpetsize\obj\Debug\carpetsize.Resources.resources
+D:\Documents\Projects\VB\carpetsize\obj\Debug\carpetsize.vbproj.GenerateResource.cache
+D:\Documents\Projects\VB\carpetsize\obj\Debug\carpetsize.vbproj.CoreCompileInputs.cache
+D:\Documents\Projects\VB\carpetsize\obj\Debug\carpetsize.exe
+D:\Documents\Projects\VB\carpetsize\obj\Debug\carpetsize.xml
+D:\Documents\Projects\VB\carpetsize\obj\Debug\carpetsize.pdb
+G:\Documents\Projects\VB\carpetsize - michael gain\bin\Debug\carpetsize.exe.config
+G:\Documents\Projects\VB\carpetsize - michael gain\bin\Debug\carpetsize.exe
+G:\Documents\Projects\VB\carpetsize - michael gain\bin\Debug\carpetsize.pdb
+G:\Documents\Projects\VB\carpetsize - michael gain\bin\Debug\carpetsize.xml
+G:\Documents\Projects\VB\carpetsize - michael gain\obj\Debug\carpetsize.vbprojAssemblyReference.cache
+G:\Documents\Projects\VB\carpetsize - michael gain\obj\Debug\carpetsize.Form1.resources
+G:\Documents\Projects\VB\carpetsize - michael gain\obj\Debug\carpetsize.Resources.resources
+G:\Documents\Projects\VB\carpetsize - michael gain\obj\Debug\carpetsize.vbproj.GenerateResource.cache
+G:\Documents\Projects\VB\carpetsize - michael gain\obj\Debug\carpetsize.vbproj.CoreCompileInputs.cache
+G:\Documents\Projects\VB\carpetsize - michael gain\obj\Debug\carpetsize.exe
+G:\Documents\Projects\VB\carpetsize - michael gain\obj\Debug\carpetsize.xml
+G:\Documents\Projects\VB\carpetsize - michael gain\obj\Debug\carpetsize.pdb

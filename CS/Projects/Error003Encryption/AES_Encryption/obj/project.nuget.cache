@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FqRoEblMWjbME07VwxN4hEgGYTq9ED7PPtQ72uh+t2E0l46DhCF+MSGV0JjTPAI4pDODqVWw2Dbw+q/OYCsYqA==",
+  "success": true,
+  "projectFilePath": "F:\\Projects\\CS\\Projects\\Error003Encryption\\AES_Encryption\\AES_Encryption.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mikey\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Mikey\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

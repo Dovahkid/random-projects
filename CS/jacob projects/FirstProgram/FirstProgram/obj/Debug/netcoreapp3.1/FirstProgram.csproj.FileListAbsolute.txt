@@ -1,0 +1,13 @@
+F:\Projects\CS\jacob projects\FirstProgram\FirstProgram\bin\Debug\netcoreapp3.1\FirstProgram.exe
+F:\Projects\CS\jacob projects\FirstProgram\FirstProgram\bin\Debug\netcoreapp3.1\FirstProgram.deps.json
+F:\Projects\CS\jacob projects\FirstProgram\FirstProgram\bin\Debug\netcoreapp3.1\FirstProgram.runtimeconfig.json
+F:\Projects\CS\jacob projects\FirstProgram\FirstProgram\bin\Debug\netcoreapp3.1\FirstProgram.runtimeconfig.dev.json
+F:\Projects\CS\jacob projects\FirstProgram\FirstProgram\bin\Debug\netcoreapp3.1\FirstProgram.dll
+F:\Projects\CS\jacob projects\FirstProgram\FirstProgram\bin\Debug\netcoreapp3.1\FirstProgram.pdb
+F:\Projects\CS\jacob projects\FirstProgram\FirstProgram\obj\Debug\netcoreapp3.1\FirstProgram.csprojAssemblyReference.cache
+F:\Projects\CS\jacob projects\FirstProgram\FirstProgram\obj\Debug\netcoreapp3.1\FirstProgram.csproj.CoreCompileInputs.cache
+F:\Projects\CS\jacob projects\FirstProgram\FirstProgram\obj\Debug\netcoreapp3.1\FirstProgram.AssemblyInfoInputs.cache
+F:\Projects\CS\jacob projects\FirstProgram\FirstProgram\obj\Debug\netcoreapp3.1\FirstProgram.AssemblyInfo.cs
+F:\Projects\CS\jacob projects\FirstProgram\FirstProgram\obj\Debug\netcoreapp3.1\FirstProgram.dll
+F:\Projects\CS\jacob projects\FirstProgram\FirstProgram\obj\Debug\netcoreapp3.1\FirstProgram.pdb
+F:\Projects\CS\jacob projects\FirstProgram\FirstProgram\obj\Debug\netcoreapp3.1\FirstProgram.genruntimeconfig.cache
